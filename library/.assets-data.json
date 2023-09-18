@@ -1,0 +1,542 @@
+{
+  "a012d260-d5e0-4119-a739-84ffabb9a676": {
+    "url": "db://assets/Boot",
+    "value": {}
+  },
+  "ae4930bb-7af7-446c-874b-6e6ada2c5b77": {
+    "url": "db://assets/Framework",
+    "value": {}
+  },
+  "2b9a5e0f-fd1f-4e9f-bda3-bc7d276943a8": {
+    "url": "db://assets/Game",
+    "value": {}
+  },
+  "c0fe593d-533b-4264-9f3d-635681a36fee": {
+    "url": "db://assets/Boot/AssetsPackage",
+    "value": {}
+  },
+  "53d55d1b-0c31-49a0-afed-c9c48b7634e4": {
+    "url": "db://assets/Boot/Scripts",
+    "value": {}
+  },
+  "aaa3d1bb-685f-4baf-9e28-20532b5a1915": {
+    "url": "db://assets/Framework/AssetsPackage",
+    "value": {}
+  },
+  "9ee9ad9e-53cd-42fe-afbb-38157a68379b": {
+    "url": "db://assets/Framework/Scripts",
+    "value": {}
+  },
+  "aa3ceb2b-f370-4760-a279-90a612e9916c": {
+    "url": "db://assets/Game/AssetsPackage",
+    "value": {}
+  },
+  "712a8614-ce96-4be1-98a6-eddcf1471cb9": {
+    "url": "db://assets/Game/Scripts",
+    "value": {}
+  },
+  "28969dcd-204c-4ef7-9e58-b237ce519d2d": {
+    "url": "db://assets/Framework/AssetsPackage/Debug",
+    "value": {}
+  },
+  "3e2ff84a-9e8b-4dbc-aa78-cd2962f4f5e2": {
+    "url": "db://assets/Framework/Scripts/3rd",
+    "value": {}
+  },
+  "baa7408a-57ef-4764-9b85-18a3af3f9a1d": {
+    "url": "db://assets/Framework/Scripts/Managers",
+    "value": {}
+  },
+  "bcbf70a6-2afd-4c61-bfd2-30af7a93bb42": {
+    "url": "db://assets/Framework/Scripts/UI",
+    "value": {}
+  },
+  "fa72205d-843f-4f05-9eac-402a1cefdb54": {
+    "url": "db://assets/Framework/Scripts/Utils",
+    "value": {}
+  },
+  "34480eb2-df59-4e22-aa08-ba1e4bd26622": {
+    "url": "db://assets/Game/AssetsPackage/Charactors",
+    "value": {}
+  },
+  "e4b16d32-064c-4653-9118-1133749bd4b0": {
+    "url": "db://assets/Game/AssetsPackage/Datas",
+    "value": {}
+  },
+  "0e005a2c-cdb9-46e5-b8a8-ff7a0301fa6e": {
+    "url": "db://assets/Game/AssetsPackage/GUI",
+    "value": {}
+  },
+  "59478ac5-9111-47da-85e4-489f49018f70": {
+    "url": "db://assets/Game/AssetsPackage/Musics",
+    "value": {}
+  },
+  "f0413398-867d-496f-b954-f9878890068d": {
+    "url": "db://assets/Game/AssetsPackage/Protos",
+    "value": {}
+  },
+  "d76f8434-cd25-4c60-9a1c-417e33983e2c": {
+    "url": "db://assets/Game/AssetsPackage/Scenes",
+    "value": {}
+  },
+  "b0ae6b67-cad4-4e92-b37c-7c36e88a0b41": {
+    "url": "db://assets/Game/AssetsPackage/Sounds",
+    "value": {}
+  },
+  "b37a9e65-ecc0-475d-b5aa-7fe64d54f038": {
+    "url": "db://assets/Game/Scripts/Protobuf",
+    "value": {}
+  },
+  "b45ef6c9-2005-4033-af39-39e16c07e168": {
+    "url": "db://assets/Game/Scripts/UIControllers",
+    "value": {}
+  },
+  "dc114923-2b19-4d91-bd14-58b8cb73f2ef": {
+    "url": "db://assets/Game/Scripts/Utils",
+    "value": {}
+  },
+  "ee2aa130-3586-4ae6-ad48-0912a6fb2c82": {
+    "url": "db://assets/Game/AssetsPackage/GUI/Prefabs",
+    "value": {}
+  },
+  "2ee22040-bcda-4678-8384-9761fc133c57": {
+    "url": "db://assets/Boot/Scripts/Boot.ts",
+    "value": {}
+  },
+  "7975d88a-6e79-46f9-9087-3733014e3f1b": {
+    "url": "db://assets/Game/Scripts/GameApp.ts",
+    "value": {}
+  },
+  "1c43ce96-4e44-4ff5-85fe-b3ff27fd2ab3": {
+    "url": "db://assets/Framework/Scripts/3rd/CSVParser.ts",
+    "value": {}
+  },
+  "6694b9a0-5403-496d-9634-488b99b3cade": {
+    "url": "db://assets/Framework/Scripts/Managers/Debug.ts",
+    "value": {}
+  },
+  "50f45955-54c3-4428-abb4-8fddb695e170": {
+    "url": "db://assets/Framework/Scripts/Managers/EventManager.ts",
+    "value": {}
+  },
+  "b53cc557-a801-43a5-bb7c-39e73e8e1b19": {
+    "url": "db://assets/Framework/Scripts/Managers/ExcelManager.ts",
+    "value": {}
+  },
+  "be9fdb60-9f79-4ad9-a6f6-9616295e300e": {
+    "url": "db://assets/Framework/Scripts/Managers/PoolManager.ts",
+    "value": {}
+  },
+  "0b60812a-fd56-4c50-96a8-119f36c07a13": {
+    "url": "db://assets/Framework/Scripts/Managers/ResManager.ts",
+    "value": {}
+  },
+  "06c246e9-143b-4151-b973-e1da1539f745": {
+    "url": "db://assets/Framework/Scripts/Managers/SceneManager.ts",
+    "value": {}
+  },
+  "c6195d97-344a-416f-85e7-f3bfadde1e87": {
+    "url": "db://assets/Framework/Scripts/Managers/SoundManager.ts",
+    "value": {}
+  },
+  "4459fa1d-ca26-4436-8666-574c596692af": {
+    "url": "db://assets/Framework/Scripts/Managers/TimerManager.ts",
+    "value": {}
+  },
+  "75963cf9-cca5-4da4-b57d-21443eede4a0": {
+    "url": "db://assets/Framework/Scripts/Managers/UIManager.ts",
+    "value": {}
+  },
+  "abfae780-bf77-4e82-bd59-e66133409d64": {
+    "url": "db://assets/Framework/Scripts/Managers/WsNetMgr.ts",
+    "value": {}
+  },
+  "18cfd874-8722-48f9-bc41-45e71a8b23f6": {
+    "url": "db://assets/Framework/Scripts/UI/UIComponent.ts",
+    "value": {}
+  },
+  "0d428502-adfb-4dfb-a745-511879c8044d": {
+    "url": "db://assets/Framework/Scripts/Utils/CocosUtils.ts",
+    "value": {}
+  },
+  "106b0271-fc80-481c-84d5-67f5eca2b915": {
+    "url": "db://assets/Framework/Scripts/Utils/GameUtils.ts",
+    "value": {}
+  },
+  "2197c372-0288-4910-bd83-43b34e2ace12": {
+    "url": "db://assets/Framework/Scripts/Utils/HttpUtils.ts",
+    "value": {}
+  },
+  "ae333720-a257-4d81-b7b1-f56ac7d2ee56": {
+    "url": "db://assets/Framework/Scripts/Utils/Opacity3D.ts",
+    "value": {}
+  },
+  "19c5cb7e-38da-401b-a46c-ef9b87dc35f0": {
+    "url": "db://assets/Framework/Scripts/Utils/RandomUtils.ts",
+    "value": {}
+  },
+  "06642f7a-8cc1-4b8c-884e-018d00a6a78b": {
+    "url": "db://assets/Game/Scripts/Protobuf/pb.d.ts",
+    "value": {}
+  },
+  "52c96046-612a-402c-b14f-b8e48c8a9272": {
+    "url": "db://assets/Game/Scripts/UIControllers/UIGameUICtrl.ts",
+    "value": {}
+  },
+  "f94b0280-f0e1-4500-bf7c-98571b31f685": {
+    "url": "db://assets/Game/Scripts/Utils/ProtobufUtils.ts",
+    "value": {}
+  },
+  "86c4d210-e108-4b8e-bf00-2c154a0b9316": {
+    "url": "db://assets/Boot/AssetsPackage/startup.scene",
+    "value": {
+      "depends": [
+        "86c4d210-e108-4b8e-bf00-2c154a0b9316",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+      ],
+      "dependScripts": [
+        "2ee22040-bcda-4678-8384-9761fc133c57"
+      ]
+    }
+  },
+  "416df073-9169-4e41-a078-687d5c20db68": {
+    "url": "db://assets/Framework/AssetsPackage/Debug/DebugWindow.prefab",
+    "value": {
+      "depends": [
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941"
+      ],
+      "dependScripts": []
+    }
+  },
+  "bb21dd27-41f3-43b4-b41a-c4594ec9bfe7": {
+    "url": "db://assets/Game/AssetsPackage/Charactors/Player.prefab",
+    "value": {
+      "depends": [
+        "620b6bf3-0369-4560-837f-2a2c00b73c26",
+        "1263d74c-8167-4928-91a6-4e2672411f47@17020",
+        "1263d74c-8167-4928-91a6-4e2672411f47@8abdc",
+        "1263d74c-8167-4928-91a6-4e2672411f47@a804a"
+      ],
+      "dependScripts": []
+    }
+  },
+  "f30ca510-4b65-4623-bc64-7604fc3163d3": {
+    "url": "db://assets/Game/AssetsPackage/Datas/fragment.csv",
+    "value": {
+      "depends": []
+    }
+  },
+  "38236d2f-1f5b-46ae-8be9-f262dd1af6fd": {
+    "url": "db://assets/Game/AssetsPackage/Datas/fruit.csv",
+    "value": {
+      "depends": []
+    }
+  },
+  "ea36f2db-7378-4f5f-a7ea-840bc2907b0e": {
+    "url": "db://assets/Game/AssetsPackage/Musics/background.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "5b354a04-bc59-4207-b873-876937cdf4e8": {
+    "url": "db://assets/Game/AssetsPackage/Protos/common.proto",
+    "value": {
+      "depends": []
+    }
+  },
+  "16662d0f-4e0a-4b6e-ae37-2726f8965add": {
+    "url": "db://assets/Game/AssetsPackage/Scenes/main.scene",
+    "value": {
+      "depends": [
+        "16662d0f-4e0a-4b6e-ae37-2726f8965add",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+      ],
+      "dependScripts": []
+    }
+  },
+  "3bab0650-02c7-438d-932f-874d264bea9e": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/attack1.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "2b65df33-e93f-4641-ba23-e3b76b6a5cd2": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/attack2.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "581f644f-4740-4bc4-99b3-82cc283ffc13": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/attack3.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "deb5f0f0-8e42-46ad-8c2d-6132e14978cb": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/attack4.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "3a332f6f-8848-473b-9261-fecdc825a9ee": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/bestReward.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "e5627c1e-b620-45b3-8f95-9b0f062d70b7": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/bossAngry.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "95f5c1c3-8e04-4270-a9a4-0f47c982b2b4": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/bossAttackGround1.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "a4762623-ea88-4528-90fe-c51b40ed3556": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/bossAttackGround2.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "2eba8a49-f4c0-411a-8f05-5800a53446a8": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/bossAttackGround3.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "06d6a958-3b45-4581-ba38-5ffabab1769a": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/bossAttackGround4.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "4ccae884-a321-44f6-8cca-655f0fc61e53": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/bossVertigo.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "545a3046-0b9e-463d-9980-06eaf3b1fb17": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/bossWeaponHit.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "1fb94d7b-97b7-44ee-a00d-b1f6207ad8ed": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/bossWeaponWaving1.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "e6097f5b-2123-4ea6-9a03-842e1a9b9cd1": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/bossWeaponWaving2.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "4242fb70-dfa4-46eb-84bb-22d1f1c2f3a3": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/bossWeaponWaving3.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "147ac8ea-c0cd-4c08-a9b9-f74a3882f2ff": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/changeColor.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "72998e86-c804-4d3e-ba63-79a973a7d29e": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/click.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "f6434c84-94e8-4685-a66e-85efac9de44f": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/collectKey.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "d8d59905-f143-4e72-ae0a-812e0834e488": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/collectPeopleRight.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "061860f2-7177-42af-9052-6fd054858342": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/collectPeopleWrong.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "0a0d8500-0587-4f86-b455-8738676f3d5f": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/diamondCollect.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "66a9aab6-571c-4229-9532-74d923ac829d": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/diamondReceive.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "6fbe2157-ddbc-401f-aa49-1d392dbbb7b9": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/dodge.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "f8bfe152-c7b4-4bac-afe4-7c3437492000": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/enemyHitFly.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "9e106a1d-fe16-460d-8166-81ffefd0ba95": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/fail.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "430d1ffa-f7b6-447a-b89e-21dfd336da10": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/fallDownOnGround.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "a06bfe12-0d1f-44fd-a30c-5ebb551735c9": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/fire.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "8f26da45-2939-4199-bd0c-a959e461b8ec": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/footstep1.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "b63838df-78ed-4953-b7ac-41dfce71f690": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/footstep2.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "b3f216f5-3cdc-46b4-9dda-73e256ff8d3c": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/footstep3.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "593439b2-68ca-4d35-9359-864a655b17ac": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/footstep4.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "988415f0-623e-422c-bacf-757d09e0ea20": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/footstep5.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "615fbd34-8877-45fb-8d4b-874be8c33997": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/getSkin.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "c9211b09-b209-44f5-945b-e59954c870bd": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/invincible.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "3b80eb2e-3705-4b1e-ad18-35f0107198d4": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/jumpLandingGround.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "3fa0a838-e3af-48c0-8a05-95079f26a188": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/levelUp.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "2735c060-bac8-4c52-9fd7-a298d1487615": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/numRaise.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "aa93cadb-24f8-4fc4-b668-1be02b9810b9": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/revive.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "f17a2288-2eb9-429d-a323-aaba371fd839": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/rewardBigBox.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "46a57ae5-8850-402d-8200-fca78d286465": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/rewardSmallBox.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "2f4a7232-73e7-40d3-9d01-c3c58b00e9e0": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/wallThoughFail.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "0b0e51fb-ad2c-4b47-8e80-c2c063a89435": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/wallThoughSuccess.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "4880eec7-31be-407b-bda0-69e5db9e4e85": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/win.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "91acf2c4-b951-4fd7-b67d-6ef61b31f366": {
+    "url": "db://assets/Game/Scripts/Protobuf/package.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "e312b7be-1b48-4dc8-879b-af9c4ab45546": {
+    "url": "db://assets/Game/Scripts/Protobuf/pb.js",
+    "value": {}
+  },
+  "9dea37e0-bc46-45d9-b49b-c47cf08f8c0d": {
+    "url": "db://assets/Game/AssetsPackage/GUI/Prefabs/UIGame.prefab",
+    "value": {
+      "depends": [
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941"
+      ],
+      "dependScripts": []
+    }
+  }
+}

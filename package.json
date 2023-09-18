@@ -1,0 +1,15 @@
+{
+  "name": "CCFramework",
+  "uuid": "62d78764-c296-4478-bb2a-3f34fcabd269",
+  "creator": {
+    "version": "3.8.0"
+  },
+  "dependencies": {
+    "protobufjs": "^7.2.5",
+    "protobufjs-cli": "^1.1.2"
+  },
+  "scripts": {
+    "protocli": "node ./tools/build_proto.js ",
+    "buildproto": "npm run protocli -- ./assets/Game/AssetsPackage/Protos ./assets/Game/Scripts/Protobuf ./assets/Game/Scripts/Protobuf pb"
+  }
+}

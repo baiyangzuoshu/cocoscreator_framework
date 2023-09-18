@@ -1,0 +1,713 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Boot": {
+      "time": 1694662236145.295,
+      "uuid": "a012d260-d5e0-4119-a739-84ffabb9a676"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework": {
+      "time": 1694662236158.2603,
+      "uuid": "ae4930bb-7af7-446c-874b-6e6ada2c5b77"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game": {
+      "time": 1694673839866.201,
+      "uuid": "2b9a5e0f-fd1f-4e9f-bda3-bc7d276943a8"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Boot\\AssetsPackage": {
+      "time": 1694662236144.2698,
+      "uuid": "c0fe593d-533b-4264-9f3d-635681a36fee"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Boot\\Scripts": {
+      "time": 1694662236149.2566,
+      "uuid": "53d55d1b-0c31-49a0-afed-c9c48b7634e4"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\AssetsPackage": {
+      "time": 1694662236155.268,
+      "uuid": "aaa3d1bb-685f-4baf-9e28-20532b5a1915"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts": {
+      "time": 1694673902263.068,
+      "uuid": "9ee9ad9e-53cd-42fe-afbb-38157a68379b"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage": {
+      "time": 1694673850590.5374,
+      "uuid": "aa3ceb2b-f370-4760-a279-90a612e9916c"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts": {
+      "time": 1694662236330.7986,
+      "uuid": "712a8614-ce96-4be1-98a6-eddcf1471cb9"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\AssetsPackage\\Debug": {
+      "time": 1694662236157.2656,
+      "uuid": "28969dcd-204c-4ef7-9e58-b237ce519d2d"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\3rd": {
+      "time": 1694662236165.214,
+      "uuid": "3e2ff84a-9e8b-4dbc-aa78-cd2962f4f5e2"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers": {
+      "time": 1694673780325.1118,
+      "uuid": "baa7408a-57ef-4764-9b85-18a3af3f9a1d"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\UI": {
+      "time": 1694673780527.2063,
+      "uuid": "bcbf70a6-2afd-4c61-bfd2-30af7a93bb42"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Utils": {
+      "time": 1694662236196.1313,
+      "uuid": "fa72205d-843f-4f05-9eac-402a1cefdb54"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Charactors": {
+      "time": 1694662236210.0938,
+      "uuid": "34480eb2-df59-4e22-aa08-ba1e4bd26622"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Datas": {
+      "time": 1694662236215.0808,
+      "uuid": "e4b16d32-064c-4653-9118-1133749bd4b0"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\GUI": {
+      "time": 1694662236218.0725,
+      "uuid": "0e005a2c-cdb9-46e5-b8a8-ff7a0301fa6e"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Musics": {
+      "time": 1694662236224.0857,
+      "uuid": "59478ac5-9111-47da-85e4-489f49018f70"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Protos": {
+      "time": 1694662236228.0615,
+      "uuid": "f0413398-867d-496f-b954-f9878890068d"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Scenes": {
+      "time": 1694662236232.0632,
+      "uuid": "d76f8434-cd25-4c60-9a1c-417e33983e2c"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds": {
+      "time": 1694662236311.8486,
+      "uuid": "b0ae6b67-cad4-4e92-b37c-7c36e88a0b41"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\Protobuf": {
+      "time": 1694662236326.781,
+      "uuid": "b37a9e65-ecc0-475d-b5aa-7fe64d54f038"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\UIControllers": {
+      "time": 1694671433691.476,
+      "uuid": "b45ef6c9-2005-4033-af39-39e16c07e168"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\Utils": {
+      "time": 1694662236332.7954,
+      "uuid": "dc114923-2b19-4d91-bd14-58b8cb73f2ef"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\GUI\\Prefabs": {
+      "time": 1694662236220.0945,
+      "uuid": "ee2aa130-3586-4ae6-ad48-0912a6fb2c82"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Boot\\Scripts\\Boot.ts": {
+      "time": 1694671364479.7231,
+      "uuid": "2ee22040-bcda-4678-8384-9761fc133c57"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\GameApp.ts": {
+      "time": 1694671364479.7231,
+      "uuid": "7975d88a-6e79-46f9-9087-3733014e3f1b"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\3rd\\CSVParser.ts": {
+      "time": 1692603184311.5742,
+      "uuid": "1c43ce96-4e44-4ff5-85fe-b3ff27fd2ab3"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\Debug.ts": {
+      "time": 1694671240251.9922,
+      "uuid": "6694b9a0-5403-496d-9634-488b99b3cade"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\EventManager.ts": {
+      "time": 1694671364690.1572,
+      "uuid": "50f45955-54c3-4428-abb4-8fddb695e170"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\ExcelManager.ts": {
+      "time": 1694672087752.0813,
+      "uuid": "b53cc557-a801-43a5-bb7c-39e73e8e1b19"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\PoolManager.ts": {
+      "time": 1694672574066.5981,
+      "uuid": "be9fdb60-9f79-4ad9-a6f6-9616295e300e"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\ResManager.ts": {
+      "time": 1694672657165.8037,
+      "uuid": "0b60812a-fd56-4c50-96a8-119f36c07a13"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\SceneManager.ts": {
+      "time": 1694672689193.71,
+      "uuid": "06c246e9-143b-4151-b973-e1da1539f745"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\SoundManager.ts": {
+      "time": 1694672706979.2954,
+      "uuid": "c6195d97-344a-416f-85e7-f3bfadde1e87"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\TimerManager.ts": {
+      "time": 1694670921328.4363,
+      "uuid": "4459fa1d-ca26-4436-8666-574c596692af"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\UIManager.ts": {
+      "time": 1694671524359.7913,
+      "uuid": "75963cf9-cca5-4da4-b57d-21443eede4a0"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\WsNetMgr.ts": {
+      "time": 1694671364479.7231,
+      "uuid": "abfae780-bf77-4e82-bd59-e66133409d64"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\UI\\UIComponent.ts": {
+      "time": 1694670793000.2258,
+      "uuid": "18cfd874-8722-48f9-bc41-45e71a8b23f6"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Utils\\CocosUtils.ts": {
+      "time": 1694672772221.3816,
+      "uuid": "0d428502-adfb-4dfb-a745-511879c8044d"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Utils\\GameUtils.ts": {
+      "time": 1692342102982.2798,
+      "uuid": "106b0271-fc80-481c-84d5-67f5eca2b915"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Utils\\HttpUtils.ts": {
+      "time": 1692431419462.6804,
+      "uuid": "2197c372-0288-4910-bd83-43b34e2ace12"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Utils\\Opacity3D.ts": {
+      "time": 1693442027093.9167,
+      "uuid": "ae333720-a257-4d81-b7b1-f56ac7d2ee56"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Utils\\RandomUtils.ts": {
+      "time": 1692341295390.318,
+      "uuid": "19c5cb7e-38da-401b-a46c-ef9b87dc35f0"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\Protobuf\\pb.d.ts": {
+      "time": 1692668934376.0935,
+      "uuid": "06642f7a-8cc1-4b8c-884e-018d00a6a78b"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\UIControllers\\UIGameUICtrl.ts": {
+      "time": 1694671419545.2964,
+      "uuid": "52c96046-612a-402c-b14f-b8e48c8a9272"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\Utils\\ProtobufUtils.ts": {
+      "time": 1692670629096.4285,
+      "uuid": "f94b0280-f0e1-4500-bf7c-98571b31f685"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Boot.meta": {
+      "time": 1691123522405.421
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework.meta": {
+      "time": 1691123310303.802
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game.meta": {
+      "time": 1691123350597.8293
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Boot\\AssetsPackage.meta": {
+      "time": 1691123714070.843
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Boot\\Scripts.meta": {
+      "time": 1691123719279.258
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\AssetsPackage.meta": {
+      "time": 1691123319377.6653
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts.meta": {
+      "time": 1691123344243.6675
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage.meta": {
+      "time": 1691123357569.0884
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts.meta": {
+      "time": 1691123505399.0515
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\AssetsPackage\\Debug.meta": {
+      "time": 1692346415334.6182
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\3rd.meta": {
+      "time": 1692599995516.756
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers.meta": {
+      "time": 1691124795061.045
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\UI.meta": {
+      "time": 1694670745754.475
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Utils.meta": {
+      "time": 1692325877038.0337
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Charactors.meta": {
+      "time": 1692610266627.6191
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Datas.meta": {
+      "time": 1691675009815.5337
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\GUI.meta": {
+      "time": 1691123366262.9827
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Musics.meta": {
+      "time": 1692499015347.642
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Protos.meta": {
+      "time": 1692668594454.1343
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Scenes.meta": {
+      "time": 1691677555935.5713
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds.meta": {
+      "time": 1691674988925.941
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\Protobuf.meta": {
+      "time": 1692668940679.8772
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\UIControllers.meta": {
+      "time": 1692676216745.7725
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\Utils.meta": {
+      "time": 1692669853868.983
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\GUI\\Prefabs.meta": {
+      "time": 1692674377416.0706
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Boot\\Scripts\\Boot.ts.meta": {
+      "time": 1691123875427.438
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\GameApp.ts.meta": {
+      "time": 1691124371282.66
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\3rd\\CSVParser.ts.meta": {
+      "time": 1692600008975.1926
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\Debug.ts.meta": {
+      "time": 1692345415301.7158
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\EventManager.ts.meta": {
+      "time": 1694671376263.275
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\ExcelManager.ts.meta": {
+      "time": 1692600050536.8042
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\PoolManager.ts.meta": {
+      "time": 1694671298292.8857
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\ResManager.ts.meta": {
+      "time": 1691673615615.9397
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\SceneManager.ts.meta": {
+      "time": 1691124807623.3667
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\SoundManager.ts.meta": {
+      "time": 1694671105724.9612
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\TimerManager.ts.meta": {
+      "time": 1694670922859.1753
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\UIManager.ts.meta": {
+      "time": 1694670691117.2678
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\WsNetMgr.ts.meta": {
+      "time": 1692619707155.6577
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\UI\\UIComponent.ts.meta": {
+      "time": 1694670752811.8887
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Utils\\CocosUtils.ts.meta": {
+      "time": 1692327927575.4402
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\Protobuf\\pb.d.ts.meta": {
+      "time": 1692668940679.8772
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Utils\\GameUtils.ts.meta": {
+      "time": 1692327108241.6772
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Utils\\HttpUtils.ts.meta": {
+      "time": 1692430540021.322
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Utils\\Opacity3D.ts.meta": {
+      "time": 1694662134251.0278
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Utils\\RandomUtils.ts.meta": {
+      "time": 1692326563831.9495
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\UIControllers\\UIGameUICtrl.ts.meta": {
+      "time": 1694671434287.4568
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\Utils\\ProtobufUtils.ts.meta": {
+      "time": 1692669863425.7244
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Boot\\AssetsPackage\\startup.scene": {
+      "time": 1692677727835.1265,
+      "uuid": "86c4d210-e108-4b8e-bf00-2c154a0b9316"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\AssetsPackage\\Debug\\DebugWindow.prefab": {
+      "time": 1692348404800.4165,
+      "uuid": "416df073-9169-4e41-a078-687d5c20db68"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Charactors\\Player.prefab": {
+      "time": 1692610244472.1038,
+      "uuid": "bb21dd27-41f3-43b4-b41a-c4594ec9bfe7"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Datas\\fragment.csv": {
+      "time": 1692604518282.8208,
+      "uuid": "f30ca510-4b65-4623-bc64-7604fc3163d3"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Datas\\fruit.csv": {
+      "time": 1692604561407.5776,
+      "uuid": "38236d2f-1f5b-46ae-8be9-f262dd1af6fd"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Musics\\background.mp3": {
+      "time": 1628771773362.3535,
+      "uuid": "ea36f2db-7378-4f5f-a7ea-840bc2907b0e"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Protos\\common.proto": {
+      "time": 1686582583000,
+      "uuid": "5b354a04-bc59-4207-b873-876937cdf4e8"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Scenes\\main.scene": {
+      "time": 1692610524981.7488,
+      "uuid": "16662d0f-4e0a-4b6e-ae37-2726f8965add"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\attack1.mp3": {
+      "time": 1628771773368.3545,
+      "uuid": "3bab0650-02c7-438d-932f-874d264bea9e"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\attack2.mp3": {
+      "time": 1628771773370.3567,
+      "uuid": "2b65df33-e93f-4641-ba23-e3b76b6a5cd2"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\attack3.mp3": {
+      "time": 1628771773372.3555,
+      "uuid": "581f644f-4740-4bc4-99b3-82cc283ffc13"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\attack4.mp3": {
+      "time": 1628771773374.3567,
+      "uuid": "deb5f0f0-8e42-46ad-8c2d-6132e14978cb"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bestReward.mp3": {
+      "time": 1628771773377.3584,
+      "uuid": "3a332f6f-8848-473b-9261-fecdc825a9ee"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossAngry.mp3": {
+      "time": 1628771773379.3577,
+      "uuid": "e5627c1e-b620-45b3-8f95-9b0f062d70b7"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround1.mp3": {
+      "time": 1628771773383.3604,
+      "uuid": "95f5c1c3-8e04-4270-a9a4-0f47c982b2b4"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround2.mp3": {
+      "time": 1628771773385.359,
+      "uuid": "a4762623-ea88-4528-90fe-c51b40ed3556"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround3.mp3": {
+      "time": 1628771773387.3594,
+      "uuid": "2eba8a49-f4c0-411a-8f05-5800a53446a8"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround4.mp3": {
+      "time": 1628771773389.3606,
+      "uuid": "06d6a958-3b45-4581-ba38-5ffabab1769a"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossVertigo.mp3": {
+      "time": 1628771773391.3608,
+      "uuid": "4ccae884-a321-44f6-8cca-655f0fc61e53"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponHit.mp3": {
+      "time": 1628771773394.3623,
+      "uuid": "545a3046-0b9e-463d-9980-06eaf3b1fb17"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponWaving1.mp3": {
+      "time": 1628771773397.361,
+      "uuid": "1fb94d7b-97b7-44ee-a00d-b1f6207ad8ed"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponWaving2.mp3": {
+      "time": 1628771773400.3635,
+      "uuid": "e6097f5b-2123-4ea6-9a03-842e1a9b9cd1"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponWaving3.mp3": {
+      "time": 1628771773402.3628,
+      "uuid": "4242fb70-dfa4-46eb-84bb-22d1f1c2f3a3"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\changeColor.mp3": {
+      "time": 1628771773404.363,
+      "uuid": "147ac8ea-c0cd-4c08-a9b9-f74a3882f2ff"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\click.mp3": {
+      "time": 1628771773406.3628,
+      "uuid": "72998e86-c804-4d3e-ba63-79a973a7d29e"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\collectKey.mp3": {
+      "time": 1628771773408.3635,
+      "uuid": "f6434c84-94e8-4685-a66e-85efac9de44f"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\collectPeopleRight.mp3": {
+      "time": 1628771773411.3647,
+      "uuid": "d8d59905-f143-4e72-ae0a-812e0834e488"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\collectPeopleWrong.mp3": {
+      "time": 1628771773413.366,
+      "uuid": "061860f2-7177-42af-9052-6fd054858342"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\diamondCollect.mp3": {
+      "time": 1628771773417.368,
+      "uuid": "0a0d8500-0587-4f86-b455-8738676f3d5f"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\diamondReceive.mp3": {
+      "time": 1628771773418.3655,
+      "uuid": "66a9aab6-571c-4229-9532-74d923ac829d"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\dodge.mp3": {
+      "time": 1628771773420.3672,
+      "uuid": "6fbe2157-ddbc-401f-aa49-1d392dbbb7b9"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\enemyHitFly.mp3": {
+      "time": 1628771773422.3677,
+      "uuid": "f8bfe152-c7b4-4bac-afe4-7c3437492000"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\fail.mp3": {
+      "time": 1628771773426.3687,
+      "uuid": "9e106a1d-fe16-460d-8166-81ffefd0ba95"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\fallDownOnGround.mp3": {
+      "time": 1628771773428.3691,
+      "uuid": "430d1ffa-f7b6-447a-b89e-21dfd336da10"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\fire.mp3": {
+      "time": 1628771773432.3684,
+      "uuid": "a06bfe12-0d1f-44fd-a30c-5ebb551735c9"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\footstep1.mp3": {
+      "time": 1628771773434.3699,
+      "uuid": "8f26da45-2939-4199-bd0c-a959e461b8ec"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\footstep2.mp3": {
+      "time": 1628771773436.37,
+      "uuid": "b63838df-78ed-4953-b7ac-41dfce71f690"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\footstep3.mp3": {
+      "time": 1628771773438.3708,
+      "uuid": "b3f216f5-3cdc-46b4-9dda-73e256ff8d3c"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\footstep4.mp3": {
+      "time": 1628771773440.3713,
+      "uuid": "593439b2-68ca-4d35-9359-864a655b17ac"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\footstep5.mp3": {
+      "time": 1628771773442.3718,
+      "uuid": "988415f0-623e-422c-bacf-757d09e0ea20"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\getSkin.mp3": {
+      "time": 1628771773445.3728,
+      "uuid": "615fbd34-8877-45fb-8d4b-874be8c33997"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\invincible.mp3": {
+      "time": 1628771773449.3733,
+      "uuid": "c9211b09-b209-44f5-945b-e59954c870bd"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\jumpLandingGround.mp3": {
+      "time": 1628771773451.3728,
+      "uuid": "3b80eb2e-3705-4b1e-ad18-35f0107198d4"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\levelUp.mp3": {
+      "time": 1628771773453.3735,
+      "uuid": "3fa0a838-e3af-48c0-8a05-95079f26a188"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\numRaise.mp3": {
+      "time": 1628771773455.3738,
+      "uuid": "2735c060-bac8-4c52-9fd7-a298d1487615"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\revive.mp3": {
+      "time": 1628771773458.3755,
+      "uuid": "aa93cadb-24f8-4fc4-b668-1be02b9810b9"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\rewardBigBox.mp3": {
+      "time": 1628771773460.3762,
+      "uuid": "f17a2288-2eb9-429d-a323-aaba371fd839"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\rewardSmallBox.mp3": {
+      "time": 1628771773462.3772,
+      "uuid": "46a57ae5-8850-402d-8200-fca78d286465"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\wallThoughFail.mp3": {
+      "time": 1628771773466.3762,
+      "uuid": "2f4a7232-73e7-40d3-9d01-c3c58b00e9e0"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\wallThoughSuccess.mp3": {
+      "time": 1628771773468.3765,
+      "uuid": "0b0e51fb-ad2c-4b47-8e80-c2c063a89435"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\win.mp3": {
+      "time": 1628771773471.378,
+      "uuid": "4880eec7-31be-407b-bda0-69e5db9e4e85"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\Protobuf\\package.json": {
+      "time": 1692668934754.8914,
+      "uuid": "91acf2c4-b951-4fd7-b67d-6ef61b31f366"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\Protobuf\\pb.js": {
+      "time": 1692668934753.8892,
+      "uuid": "e312b7be-1b48-4dc8-879b-af9c4ab45546"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\GUI\\Prefabs\\UIGame.prefab": {
+      "time": 1692677824620.8042,
+      "uuid": "9dea37e0-bc46-45d9-b49b-c47cf08f8c0d"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Boot\\AssetsPackage\\startup.scene.meta": {
+      "time": 1691123796718.9868
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\AssetsPackage\\Debug\\DebugWindow.prefab.meta": {
+      "time": 1692346246059.6365
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Datas\\fruit.csv.meta": {
+      "time": 1691674859234.7224
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Charactors\\Player.prefab.meta": {
+      "time": 1692610244481.6594
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Datas\\fragment.csv.meta": {
+      "time": 1691674859231.708
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Protos\\common.proto.meta": {
+      "time": 1692668702296.7688
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Scenes\\main.scene.meta": {
+      "time": 1691124765034.657
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\attack1.mp3.meta": {
+      "time": 1691674901915.9395
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\attack2.mp3.meta": {
+      "time": 1691674901922.499
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\attack4.mp3.meta": {
+      "time": 1691674901912.9229
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\attack3.mp3.meta": {
+      "time": 1691674901911.9062
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Musics\\background.mp3.meta": {
+      "time": 1691674935398.2578
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround2.mp3.meta": {
+      "time": 1691674901945.2886
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bestReward.mp3.meta": {
+      "time": 1691674901913.9385
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossAngry.mp3.meta": {
+      "time": 1691674901940.9685
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround1.mp3.meta": {
+      "time": 1691674901935.77
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround3.mp3.meta": {
+      "time": 1691674901936.9502
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround4.mp3.meta": {
+      "time": 1691674901943.0703
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponHit.mp3.meta": {
+      "time": 1691674901958.4888
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossVertigo.mp3.meta": {
+      "time": 1691674901956.244
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponWaving2.mp3.meta": {
+      "time": 1691674901967.2234
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponWaving1.mp3.meta": {
+      "time": 1691674901971.2473
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\click.mp3.meta": {
+      "time": 1691674901986.7886
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponWaving3.mp3.meta": {
+      "time": 1691674901972.3281
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\collectKey.mp3.meta": {
+      "time": 1691674901987.796
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\changeColor.mp3.meta": {
+      "time": 1691674901983.6582
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\collectPeopleRight.mp3.meta": {
+      "time": 1691674901991.9243
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\diamondCollect.mp3.meta": {
+      "time": 1691674902002.8774
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\collectPeopleWrong.mp3.meta": {
+      "time": 1691674901990.9155
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\dodge.mp3.meta": {
+      "time": 1691674902013.0486
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\enemyHitFly.mp3.meta": {
+      "time": 1691674902022.5388
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\diamondReceive.mp3.meta": {
+      "time": 1691674902010.8877
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\fail.mp3.meta": {
+      "time": 1691674902021.5369
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\fallDownOnGround.mp3.meta": {
+      "time": 1691674902027.0938
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\footstep1.mp3.meta": {
+      "time": 1691674902031.3682
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\fire.mp3.meta": {
+      "time": 1691674902029.1155
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\footstep2.mp3.meta": {
+      "time": 1691674902042.1577
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\footstep4.mp3.meta": {
+      "time": 1691674902043.649
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\getSkin.mp3.meta": {
+      "time": 1691674902056.3252
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\footstep3.mp3.meta": {
+      "time": 1691674902042.1577
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\invincible.mp3.meta": {
+      "time": 1691674902065.4875
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\footstep5.mp3.meta": {
+      "time": 1691674902047.9353
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\levelUp.mp3.meta": {
+      "time": 1691674902072.866
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\jumpLandingGround.mp3.meta": {
+      "time": 1691674902067.798
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\numRaise.mp3.meta": {
+      "time": 1691674902071.858
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\revive.mp3.meta": {
+      "time": 1691674902081.354
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\rewardBigBox.mp3.meta": {
+      "time": 1691674902085.591
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\Protobuf\\package.json.meta": {
+      "time": 1692668940693.1375
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\Protobuf\\pb.js.meta": {
+      "time": 1692668940688.5579
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\rewardSmallBox.mp3.meta": {
+      "time": 1691674902088.9485
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\wallThoughFail.mp3.meta": {
+      "time": 1691674902092.0354
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\win.mp3.meta": {
+      "time": 1691674902097.5583
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\wallThoughSuccess.mp3.meta": {
+      "time": 1691674902093.036
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\GUI\\Prefabs\\UIGame.prefab.meta": {
+      "time": 1692674366625.0007
+    }
+  },
+  "missing": {}
+}

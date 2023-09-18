@@ -1,0 +1,5 @@
+{
+    "imports": {
+        "pb": "./assets/Game/Scripts/Protobuf/pb.js"
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "__version__": "1.0.5",
+  "layer": [
+    {
+      "name": "UI_DEBUG",
+      "value": 524288
+    }
+  ],
+  "custom_joint_texture_layouts": [],
+  "general": {
+    "renderPipeline": "fd8ec536-a354-4a17-9c74-4f3883c378c8"
+  },
+  "script": {
+    "importMap": "project://import-map.json"
+  }
+}

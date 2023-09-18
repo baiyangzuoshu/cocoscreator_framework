@@ -1,0 +1,35 @@
+syntax = "proto3";
+
+// 游戏推落的物品
+message PushDownGoods {
+  // 推落获取区：0充电区、1获取区
+  int32 type = 1;
+  // 物品id
+  int64 goodsId = 2;
+  // 物品数量；默认1
+  int32 goodsNum = 3;
+}
+
+// 上报游戏进度
+message ReportGameProgressData {
+  // 扩展字段，存放游戏的进度内容
+  string ext = 1;
+}
+
+// 响应
+message ResponseData {
+  bool success = 1;
+}
+
+// 使用我的物品
+message UseMyGoods {
+  int64 id = 1;
+}
+
+// 微信小程序登录
+message WechatMiniLogin {
+  string code = 1;
+  string encryptedData = 2;
+  string vi = 3;
+}
+
