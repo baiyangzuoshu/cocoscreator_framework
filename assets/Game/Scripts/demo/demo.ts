@@ -12,9 +12,7 @@ export class demo extends Component {
     private _closeButton: any;    
     start() {
         this.addComponent(FGUIManager);
-        console.log("1111111111")
         this.loadMainGUI();
-        console.log("22222222222222")
         this.node.on("start_demo", this.onDemoStart, this);
     }
 
@@ -26,7 +24,7 @@ export class demo extends Component {
         arr.forEach(async (v,k,_)=>{
             console.log(v,k)
             var bundle:AssetManager.Bundle = await ResManager.Instance.IE_LoadBundle("UI") as AssetManager.Bundle; 
-            FGUIManager.getInstance().loadPackageByBundle(bundle,v)
+            FGUIManager.Instance.loadPackageByBundle(bundle,v)
         })
     }
 

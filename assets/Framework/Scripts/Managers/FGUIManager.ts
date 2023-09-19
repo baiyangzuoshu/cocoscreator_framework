@@ -3,24 +3,17 @@ import * as fgui from "fairygui-cc";
 
 export default class FGUIManager extends Component {
     private guiObjects={}
-    private static _instance:FGUIManager=null
+    public static Instance: FGUIManager = null!;
     // LIFE-CYCLE CALLBACKS:
-
-    onLoad () {
-        if(null==FGUIManager._instance)
-        {
-            FGUIManager._instance=this
+    protected onLoad(): void {
+        if(FGUIManager.Instance !== null) {
+            this.destroy();
+            return;
         }
-        else{
-            this.destroy()
-            return
-        }
-        //创建UI根节点
-        fgui.GRoot.create();
-    }
 
-    public static getInstance():FGUIManager{
-        return FGUIManager._instance
+        FGUIManager.Instance = this;
+         //创建UI根节点
+         fgui.GRoot.create();
     }
 
     public loadPackageByPath(path:string):number{
