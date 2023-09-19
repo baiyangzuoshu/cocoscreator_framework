@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.26",
+  "importer": "image",
+  "imported": true,
+  "uuid": "85f6bbad-1593-4c67-b339-4f075b0208dd",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "Cooldown_atlas0": {
+      "ver": "1.0.6",
+      "uuid": "22aa11ac-0469-4be8-a5c4-d74316a5c67b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "85f6bbad-1593-4c67-b339-4f075b0208dd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -81,
+      "offsetY": 1,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 350,
+      "height": 254,
+      "rawWidth": 512,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "85f6bbad-1593-4c67-b339-4f075b0208dd@6c48a",
+      "displayName": "Cooldown_atlas0",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "85f6bbad-1593-4c67-b339-4f075b0208dd",
+        "visible": false
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "85f6bbad-1593-4c67-b339-4f075b0208dd@6c48a"
+  }
+}

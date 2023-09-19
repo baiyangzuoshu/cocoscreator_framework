@@ -1,0 +1,54 @@
+{
+  "uuid": {
+    "D:\\work\\cocoscreator_framework\\assets\\Game\\AssetsPackage\\material\\hdcSky.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\work\\cocoscreator_framework\\assets\\Game\\AssetsPackage\\material\\shield.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\work\\cocoscreator_framework\\assets\\Game\\AssetsPackage\\material\\plane.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\work\\cocoscreator_framework\\assets\\Game\\AssetsPackage\\material\\soldier.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "D:\\work\\cocoscreator_framework\\assets\\Game\\AssetsPackage\\material\\seafloor.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\work\\cocoscreator_framework\\assets\\Game\\AssetsPackage\\material\\stone.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "D:\\work\\cocoscreator_framework\\assets\\Game\\AssetsPackage\\material\\tree.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "D:\\work\\cocoscreator_framework\\assets\\Game\\AssetsPackage\\model\\helloWorld\\grass\\grass.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\work\\cocoscreator_framework\\assets\\material\\hdcSky.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4"
+    ],
+    "D:\\work\\cocoscreator_framework\\assets\\material\\seafloor.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4"
+    ],
+    "D:\\work\\cocoscreator_framework\\assets\\material\\stone.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4"
+    ],
+    "D:\\work\\cocoscreator_framework\\assets\\material\\tree.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4"
+    ],
+    "D:\\work\\cocoscreator_framework\\assets\\material\\soldier.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4"
+    ],
+    "D:\\work\\cocoscreator_framework\\assets\\material\\shield.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4"
+    ],
+    "D:\\work\\cocoscreator_framework\\assets\\model\\helloWorld\\grass\\grass.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4"
+    ]
+  },
+  "path": {
+    "D:\\work\\cocoscreator_framework\\assets\\Game\\AssetsPackage\\model\\helloWorld\\soldier.FBX@f3caa": [
+      "D:\\work\\cocoscreator_framework\\assets\\Game\\AssetsPackage\\model\\helloWorld\\soldier.png"
+    ]
+  }
+}

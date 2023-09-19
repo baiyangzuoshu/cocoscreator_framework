@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.26",
+  "importer": "image",
+  "imported": true,
+  "uuid": "32ffe8c2-7953-4986-bb7b-be69d2bfaa2f",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "ListEffect_atlas0": {
+      "ver": "1.0.6",
+      "uuid": "eae5318e-4a62-4ac5-8613-be16949c2e80",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "32ffe8c2-7953-4986-bb7b-be69d2bfaa2f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -13,
+      "offsetY": 13,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 486,
+      "height": 230,
+      "rawWidth": 512,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "32ffe8c2-7953-4986-bb7b-be69d2bfaa2f@6c48a",
+      "displayName": "ListEffect_atlas0",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "32ffe8c2-7953-4986-bb7b-be69d2bfaa2f",
+        "visible": false
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "32ffe8c2-7953-4986-bb7b-be69d2bfaa2f@6c48a"
+  }
+}

@@ -538,5 +538,1818 @@
       ],
       "dependScripts": []
     }
+  },
+  "6384d5e7-987d-4e92-9470-5d9b5e1219ed": {
+    "url": "db://assets/Game/AssetsPackage/material",
+    "value": {}
+  },
+  "fe439dd7-44c9-4949-9164-2be79dbb97a5": {
+    "url": "db://assets/Game/AssetsPackage/model",
+    "value": {}
+  },
+  "17274d5b-a48e-49e7-9159-dcc401b7170c": {
+    "url": "db://assets/Game/AssetsPackage/resources",
+    "value": {}
+  },
+  "fe9993ba-1d19-4407-9519-5e7c3d335039": {
+    "url": "db://assets/Game/AssetsPackage/skybox",
+    "value": {}
+  },
+  "6e328c40-4f07-4ee5-a84c-45674cf875d0": {
+    "url": "db://assets/Game/Scripts/demo",
+    "value": {}
+  },
+  "11a1d348-a622-41b2-89f3-ed24657e5f84": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld",
+    "value": {}
+  },
+  "43676ab8-71a8-4b84-9003-81738ee9e774": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons",
+    "value": {}
+  },
+  "f6e9a670-6c52-4456-b059-966b6da4f6be": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI",
+    "value": {}
+  },
+  "c34b2ff5-dacb-4a2e-8d94-941a989016b2": {
+    "url": "db://assets/Game/Scripts/demo/BagDemo.ts",
+    "value": {}
+  },
+  "192cddf2-ec3b-4d1f-a8ac-f6661d850175": {
+    "url": "db://assets/Game/Scripts/demo/BasicsDemo.ts",
+    "value": {}
+  },
+  "6a9cbf25-cd02-49b3-ba7c-56e297c7e69c": {
+    "url": "db://assets/Game/Scripts/demo/ChatDemo.ts",
+    "value": {}
+  },
+  "a89e280c-aad1-4063-bf90-09c773a41de2": {
+    "url": "db://assets/Game/Scripts/demo/CooldownDemo.ts",
+    "value": {}
+  },
+  "d87b87ee-304e-4521-9389-b52882e5176e": {
+    "url": "db://assets/Game/Scripts/demo/DemoEntry.ts",
+    "value": {}
+  },
+  "c30e3a1f-038a-4572-9927-73c23ebfead7": {
+    "url": "db://assets/Game/Scripts/demo/EmojiParser.ts",
+    "value": {}
+  },
+  "daad0d45-e3ce-4d82-bfd2-8b75a7a2357f": {
+    "url": "db://assets/Game/Scripts/demo/GuideDemo.ts",
+    "value": {}
+  },
+  "90836ecb-e786-4453-975a-5672da8fab50": {
+    "url": "db://assets/Game/Scripts/demo/HitTestDemo.ts",
+    "value": {}
+  },
+  "f2b1631a-518e-4a73-af40-1ef7ea99ebf2": {
+    "url": "db://assets/Game/Scripts/demo/JoystickDemo.ts",
+    "value": {}
+  },
+  "b80e860d-0cfc-4b8e-9777-7f2f43a4b72f": {
+    "url": "db://assets/Game/Scripts/demo/JoystickModule.ts",
+    "value": {}
+  },
+  "a6e3bc78-4133-4f47-8c9e-31bdfbcde2e2": {
+    "url": "db://assets/Game/Scripts/demo/ListEffectDemo.ts",
+    "value": {}
+  },
+  "438e9b45-b562-4eac-bd63-4a4ff7f8b35b": {
+    "url": "db://assets/Game/Scripts/demo/LoopListDemo.ts",
+    "value": {}
+  },
+  "5b405ee9-6ce6-4811-923e-c9ec5f53948a": {
+    "url": "db://assets/Game/Scripts/demo/MailItem.ts",
+    "value": {}
+  },
+  "7fe2de5c-301d-4f16-954b-eb649a93ff7f": {
+    "url": "db://assets/Game/Scripts/demo/MainMenu.ts",
+    "value": {}
+  },
+  "89752c9e-e52b-4e08-8c6c-75d348695f2f": {
+    "url": "db://assets/Game/Scripts/demo/ModalWaitingDemo.ts",
+    "value": {}
+  },
+  "5f83ba15-f554-4599-8625-54b623b233b5": {
+    "url": "db://assets/Game/Scripts/demo/PullToRefreshDemo.ts",
+    "value": {}
+  },
+  "da77b760-f54b-4375-bbdd-cb8cf3e04db5": {
+    "url": "db://assets/Game/Scripts/demo/ScrollPaneDemo.ts",
+    "value": {}
+  },
+  "590afe72-66eb-475c-b75d-af015b0973d5": {
+    "url": "db://assets/Game/Scripts/demo/ScrollPaneHeader.ts",
+    "value": {}
+  },
+  "65895334-9e54-46db-924c-669bdfacf06b": {
+    "url": "db://assets/Game/Scripts/demo/TestWin.ts",
+    "value": {}
+  },
+  "1f0e7c70-5558-434d-b061-b33ae93b73a8": {
+    "url": "db://assets/Game/Scripts/demo/TransitionDemo.ts",
+    "value": {}
+  },
+  "b741907c-ac40-472d-b4b4-d04221e710b1": {
+    "url": "db://assets/Game/Scripts/demo/TreeViewDemo.ts",
+    "value": {}
+  },
+  "6329db9d-1600-445a-92d7-2628a33f8588": {
+    "url": "db://assets/Game/Scripts/demo/VirtualListDemo.ts",
+    "value": {}
+  },
+  "e00862a8-c500-427c-b76f-bbe5203f19cc": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/grass",
+    "value": {}
+  },
+  "482a5162-dad9-446c-b548-8486c7598ee1": {
+    "url": "db://assets/Game/AssetsPackage/material/hdcSky.mtl",
+    "value": {
+      "depends": [
+        "a3cd009f-0ab0-420d-9278-b9fdab939bbc",
+        "dc4a96c7-321a-48af-81e5-1127ad3ae432@6c48a"
+      ]
+    }
+  },
+  "23e988d0-7168-4fe2-9d46-f29c114e9e33": {
+    "url": "db://assets/Game/AssetsPackage/material/plane.mtl",
+    "value": {
+      "depends": [
+        "a3cd009f-0ab0-420d-9278-b9fdab939bbc",
+        "4f4c4a34-2d08-4a4d-9169-834d7ce82cee@6c48a"
+      ]
+    }
+  },
+  "70d33758-1c1e-424d-b0ab-eac7410559bf": {
+    "url": "db://assets/Game/AssetsPackage/material/seafloor.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+        "0ab3142a-6968-4073-95af-026bc3b23623@2df3a"
+      ]
+    }
+  },
+  "8e047178-f61c-4322-a2f6-d1adb28b6ae2": {
+    "url": "db://assets/Game/AssetsPackage/material/shield.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+        "95e5b02a-e338-423c-bdbb-17486db1d9eb@6c48a"
+      ]
+    }
+  },
+  "8a58ddec-f437-40b9-8ec0-1fc87de97fb5": {
+    "url": "db://assets/Game/AssetsPackage/material/soldier.mtl",
+    "value": {
+      "depends": [
+        "a7612b54-35e3-4238-a1a9-4a7b54635839",
+        "6f891a7b-5a08-48e6-9841-ddb364ac86b1@6c48a"
+      ]
+    }
+  },
+  "a155f93b-7769-4ca4-b75f-b13e52193859": {
+    "url": "db://assets/Game/AssetsPackage/material/stone.mtl",
+    "value": {
+      "depends": [
+        "a7612b54-35e3-4238-a1a9-4a7b54635839",
+        "0718d996-39bf-4ab4-bb63-496666fef467@6c48a"
+      ]
+    }
+  },
+  "7bf9df40-4bc9-4e25-8cb0-9a500f949102": {
+    "url": "db://assets/Game/AssetsPackage/material/tree.mtl",
+    "value": {
+      "depends": [
+        "a7612b54-35e3-4238-a1a9-4a7b54635839",
+        "c5083e75-ad2e-4ea9-8b33-dee748995b00@6c48a"
+      ]
+    }
+  },
+  "273f3851-48de-424c-ae15-3c5828f29c13": {
+    "url": "db://assets/Game/AssetsPackage/resources/TestButton.prefab",
+    "value": {
+      "depends": [
+        "273f3851-48de-424c-ae15-3c5828f29c13",
+        "f0048c10-f03e-4c97-b9d3-3506e1d58952",
+        "e9ec654c-97a2-4787-9325-e6a10375219a",
+        "29158224-f8dd-4661-a796-1ffab537140e"
+      ],
+      "dependScripts": []
+    }
+  },
+  "5af201b5-5951-4e2c-a81f-ac4aad9132cb": {
+    "url": "db://assets/Game/AssetsPackage/skybox/sunnySkyBox.jpg",
+    "value": {
+      "depends": []
+    }
+  },
+  "929e58ce-66a4-4e04-9036-4244456a1220": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/hdcSky.FBX",
+    "value": {}
+  },
+  "f0512d7a-e4f6-4209-8dc0-ed1de7149c85": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/hdcSky.prefab",
+    "value": {
+      "depends": [
+        "482a5162-dad9-446c-b548-8486c7598ee1",
+        "929e58ce-66a4-4e04-9036-4244456a1220@f6832"
+      ],
+      "dependScripts": []
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/islands.FBX",
+    "value": {}
+  },
+  "ccc3a755-7d3d-4304-aa3b-ca4792d79d9f": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/islands.prefab",
+    "value": {
+      "depends": [
+        "70d33758-1c1e-424d-b0ab-eac7410559bf",
+        "0ab3142a-6968-4073-95af-026bc3b23623@2b0a8",
+        "a155f93b-7769-4ca4-b75f-b13e52193859",
+        "0ab3142a-6968-4073-95af-026bc3b23623@4a7d8",
+        "7bf9df40-4bc9-4e25-8cb0-9a500f949102",
+        "0ab3142a-6968-4073-95af-026bc3b23623@0e750",
+        "0ab3142a-6968-4073-95af-026bc3b23623@ef86b",
+        "0ab3142a-6968-4073-95af-026bc3b23623@426f2",
+        "0ab3142a-6968-4073-95af-026bc3b23623@754a2",
+        "0ab3142a-6968-4073-95af-026bc3b23623@71919",
+        "0ab3142a-6968-4073-95af-026bc3b23623@1332c",
+        "0ab3142a-6968-4073-95af-026bc3b23623@4d16f",
+        "0ab3142a-6968-4073-95af-026bc3b23623@efe84"
+      ],
+      "dependScripts": []
+    }
+  },
+  "4f4c4a34-2d08-4a4d-9169-834d7ce82cee": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/seafloor.jpg",
+    "value": {
+      "depends": []
+    }
+  },
+  "95e5b02a-e338-423c-bdbb-17486db1d9eb": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/shield.jpg",
+    "value": {
+      "depends": []
+    }
+  },
+  "4f4c4a34-2d08-4a4d-9169-834d7ce82cee@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/seafloor.jpg@6c48a",
+    "value": {
+      "depends": [
+        "4f4c4a34-2d08-4a4d-9169-834d7ce82cee"
+      ]
+    }
+  },
+  "dc4a96c7-321a-48af-81e5-1127ad3ae432": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/sky.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "929e58ce-66a4-4e04-9036-4244456a1220@f6832": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/hdcSky.FBX@f6832",
+    "value": {
+      "depends": []
+    }
+  },
+  "95e5b02a-e338-423c-bdbb-17486db1d9eb@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/shield.jpg@6c48a",
+    "value": {
+      "depends": [
+        "95e5b02a-e338-423c-bdbb-17486db1d9eb"
+      ]
+    }
+  },
+  "e3553cad-2f15-4293-859a-8f43c780f289": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/soldier.FBX",
+    "value": {
+      "depends": []
+    }
+  },
+  "929e58ce-66a4-4e04-9036-4244456a1220@7f40d": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/hdcSky.FBX@7f40d",
+    "value": {
+      "depends": []
+    }
+  },
+  "dc4a96c7-321a-48af-81e5-1127ad3ae432@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/sky.png@6c48a",
+    "value": {
+      "depends": [
+        "dc4a96c7-321a-48af-81e5-1127ad3ae432"
+      ]
+    }
+  },
+  "6f891a7b-5a08-48e6-9841-ddb364ac86b1": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/soldier.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "929e58ce-66a4-4e04-9036-4244456a1220@d6067": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/hdcSky.FBX@d6067",
+    "value": {
+      "depends": [
+        "929e58ce-66a4-4e04-9036-4244456a1220@7f40d"
+      ]
+    }
+  },
+  "5af201b5-5951-4e2c-a81f-ac4aad9132cb@b47c0": {
+    "url": "db://assets/Game/AssetsPackage/skybox/sunnySkyBox.jpg@b47c0",
+    "value": {
+      "depends": [
+        "5af201b5-5951-4e2c-a81f-ac4aad9132cb@b47c0@e9a6d",
+        "5af201b5-5951-4e2c-a81f-ac4aad9132cb@b47c0@40c10",
+        "5af201b5-5951-4e2c-a81f-ac4aad9132cb@b47c0@8fd34",
+        "5af201b5-5951-4e2c-a81f-ac4aad9132cb@b47c0@74afd",
+        "5af201b5-5951-4e2c-a81f-ac4aad9132cb@b47c0@bb97f",
+        "5af201b5-5951-4e2c-a81f-ac4aad9132cb@b47c0@7d38f"
+      ]
+    }
+  },
+  "929e58ce-66a4-4e04-9036-4244456a1220@bfc57": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/hdcSky.FBX@bfc57",
+    "value": {
+      "depends": [
+        "91b22706-89d1-4b94-976c-ea2c7647248b",
+        "929e58ce-66a4-4e04-9036-4244456a1220@f6832"
+      ]
+    }
+  },
+  "cfc53c4e-7956-482b-aebc-3fb1dcd36eef": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/soldier.prefab",
+    "value": {
+      "depends": [
+        "8a58ddec-f437-40b9-8ec0-1fc87de97fb5",
+        "e3553cad-2f15-4293-859a-8f43c780f289@18751",
+        "e3553cad-2f15-4293-859a-8f43c780f289@30732",
+        "e3553cad-2f15-4293-859a-8f43c780f289@da6f3",
+        "e3553cad-2f15-4293-859a-8f43c780f289@f1394",
+        "e3553cad-2f15-4293-859a-8f43c780f289@4b929",
+        "e3553cad-2f15-4293-859a-8f43c780f289@75ee4",
+        "8e047178-f61c-4322-a2f6-d1adb28b6ae2",
+        "e3553cad-2f15-4293-859a-8f43c780f289@39f7b",
+        "e3553cad-2f15-4293-859a-8f43c780f289@a72ab",
+        "e3553cad-2f15-4293-859a-8f43c780f289@73b7f"
+      ],
+      "dependScripts": []
+    }
+  },
+  "5af201b5-5951-4e2c-a81f-ac4aad9132cb@b47c0@e9a6d": {
+    "url": "db://assets/Game/AssetsPackage/skybox/sunnySkyBox.jpg@b47c0@e9a6d",
+    "value": {
+      "depends": []
+    }
+  },
+  "6f891a7b-5a08-48e6-9841-ddb364ac86b1@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/soldier.png@6c48a",
+    "value": {
+      "depends": [
+        "6f891a7b-5a08-48e6-9841-ddb364ac86b1"
+      ]
+    }
+  },
+  "0718d996-39bf-4ab4-bb63-496666fef467": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/stone.jpg",
+    "value": {
+      "depends": []
+    }
+  },
+  "5af201b5-5951-4e2c-a81f-ac4aad9132cb@b47c0@40c10": {
+    "url": "db://assets/Game/AssetsPackage/skybox/sunnySkyBox.jpg@b47c0@40c10",
+    "value": {
+      "depends": []
+    }
+  },
+  "c5083e75-ad2e-4ea9-8b33-dee748995b00": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/tree.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "5af201b5-5951-4e2c-a81f-ac4aad9132cb@b47c0@bb97f": {
+    "url": "db://assets/Game/AssetsPackage/skybox/sunnySkyBox.jpg@b47c0@bb97f",
+    "value": {
+      "depends": []
+    }
+  },
+  "0718d996-39bf-4ab4-bb63-496666fef467@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/stone.jpg@6c48a",
+    "value": {
+      "depends": [
+        "0718d996-39bf-4ab4-bb63-496666fef467"
+      ]
+    }
+  },
+  "5fa7b1b2-ac9c-4fb8-8666-531c0550553d": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/i0.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "5af201b5-5951-4e2c-a81f-ac4aad9132cb@b47c0@7d38f": {
+    "url": "db://assets/Game/AssetsPackage/skybox/sunnySkyBox.jpg@b47c0@7d38f",
+    "value": {
+      "depends": []
+    }
+  },
+  "c5083e75-ad2e-4ea9-8b33-dee748995b00@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/tree.png@6c48a",
+    "value": {
+      "depends": [
+        "c5083e75-ad2e-4ea9-8b33-dee748995b00"
+      ]
+    }
+  },
+  "1bbaa412-d976-40a8-a8a1-ef1665b057cc": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/i1.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "5af201b5-5951-4e2c-a81f-ac4aad9132cb@b47c0@74afd": {
+    "url": "db://assets/Game/AssetsPackage/skybox/sunnySkyBox.jpg@b47c0@74afd",
+    "value": {
+      "depends": []
+    }
+  },
+  "5af201b5-5951-4e2c-a81f-ac4aad9132cb@b47c0@8fd34": {
+    "url": "db://assets/Game/AssetsPackage/skybox/sunnySkyBox.jpg@b47c0@8fd34",
+    "value": {
+      "depends": []
+    }
+  },
+  "5fa7b1b2-ac9c-4fb8-8666-531c0550553d@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/i0.png@6c48a",
+    "value": {
+      "depends": [
+        "5fa7b1b2-ac9c-4fb8-8666-531c0550553d"
+      ]
+    }
+  },
+  "dd72d507-d7e4-458c-98d6-c682f3cca7e5": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/i2.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@71919": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/islands.FBX@71919",
+    "value": {
+      "depends": []
+    }
+  },
+  "1bbaa412-d976-40a8-a8a1-ef1665b057cc@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/i1.png@6c48a",
+    "value": {
+      "depends": [
+        "1bbaa412-d976-40a8-a8a1-ef1665b057cc"
+      ]
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@2b0a8": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/islands.FBX@2b0a8",
+    "value": {
+      "depends": []
+    }
+  },
+  "5fa7b1b2-ac9c-4fb8-8666-531c0550553d@f9941": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/i0.png@f9941",
+    "value": {
+      "depends": [
+        "5fa7b1b2-ac9c-4fb8-8666-531c0550553d@6c48a"
+      ]
+    }
+  },
+  "f99f7c13-0fb6-4036-9754-e8109df446dc": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/i3.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "1bbaa412-d976-40a8-a8a1-ef1665b057cc@f9941": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/i1.png@f9941",
+    "value": {
+      "depends": [
+        "1bbaa412-d976-40a8-a8a1-ef1665b057cc@6c48a"
+      ]
+    }
+  },
+  "da97939a-5133-418c-8f1b-533c4f49f488": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/i4.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "dd72d507-d7e4-458c-98d6-c682f3cca7e5@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/i2.png@6c48a",
+    "value": {
+      "depends": [
+        "dd72d507-d7e4-458c-98d6-c682f3cca7e5"
+      ]
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@4a7d8": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/islands.FBX@4a7d8",
+    "value": {
+      "depends": []
+    }
+  },
+  "dd72d507-d7e4-458c-98d6-c682f3cca7e5@f9941": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/i2.png@f9941",
+    "value": {
+      "depends": [
+        "dd72d507-d7e4-458c-98d6-c682f3cca7e5@6c48a"
+      ]
+    }
+  },
+  "a8d7bf3a-9a69-436f-84cd-dd7698437b15": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/i5.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "e3553cad-2f15-4293-859a-8f43c780f289@18751": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/soldier.FBX@18751",
+    "value": {
+      "depends": []
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@0e750": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/islands.FBX@0e750",
+    "value": {
+      "depends": []
+    }
+  },
+  "f99f7c13-0fb6-4036-9754-e8109df446dc@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/i3.png@6c48a",
+    "value": {
+      "depends": [
+        "f99f7c13-0fb6-4036-9754-e8109df446dc"
+      ]
+    }
+  },
+  "da97939a-5133-418c-8f1b-533c4f49f488@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/i4.png@6c48a",
+    "value": {
+      "depends": [
+        "da97939a-5133-418c-8f1b-533c4f49f488"
+      ]
+    }
+  },
+  "e3553cad-2f15-4293-859a-8f43c780f289@30732": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/soldier.FBX@30732",
+    "value": {
+      "depends": []
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@ef86b": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/islands.FBX@ef86b",
+    "value": {
+      "depends": []
+    }
+  },
+  "e3553cad-2f15-4293-859a-8f43c780f289@da6f3": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/soldier.FBX@da6f3",
+    "value": {
+      "depends": []
+    }
+  },
+  "a8d7bf3a-9a69-436f-84cd-dd7698437b15@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/i5.png@6c48a",
+    "value": {
+      "depends": [
+        "a8d7bf3a-9a69-436f-84cd-dd7698437b15"
+      ]
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@426f2": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/islands.FBX@426f2",
+    "value": {
+      "depends": []
+    }
+  },
+  "e3553cad-2f15-4293-859a-8f43c780f289@4b929": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/soldier.FBX@4b929",
+    "value": {
+      "depends": []
+    }
+  },
+  "da97939a-5133-418c-8f1b-533c4f49f488@f9941": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/i4.png@f9941",
+    "value": {
+      "depends": [
+        "da97939a-5133-418c-8f1b-533c4f49f488@6c48a"
+      ]
+    }
+  },
+  "a2e5b07d-33cf-46bf-b8d0-914fe04b7ec7": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/i6.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "f99f7c13-0fb6-4036-9754-e8109df446dc@f9941": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/i3.png@f9941",
+    "value": {
+      "depends": [
+        "f99f7c13-0fb6-4036-9754-e8109df446dc@6c48a"
+      ]
+    }
+  },
+  "a8d7bf3a-9a69-436f-84cd-dd7698437b15@f9941": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/i5.png@f9941",
+    "value": {
+      "depends": [
+        "a8d7bf3a-9a69-436f-84cd-dd7698437b15@6c48a"
+      ]
+    }
+  },
+  "8753cff0-122c-41e3-904f-3134277b6fd6": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/i7.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "64caa3cc-2b4b-492d-bb40-12c39dbe18b8": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/i8.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@754a2": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/islands.FBX@754a2",
+    "value": {
+      "depends": []
+    }
+  },
+  "e3553cad-2f15-4293-859a-8f43c780f289@39f7b": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/soldier.FBX@39f7b",
+    "value": {
+      "depends": []
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@1332c": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/islands.FBX@1332c",
+    "value": {
+      "depends": []
+    }
+  },
+  "e3553cad-2f15-4293-859a-8f43c780f289@73b7f": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/soldier.FBX@73b7f",
+    "value": {
+      "depends": []
+    }
+  },
+  "8753cff0-122c-41e3-904f-3134277b6fd6@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/i7.png@6c48a",
+    "value": {
+      "depends": [
+        "8753cff0-122c-41e3-904f-3134277b6fd6"
+      ]
+    }
+  },
+  "a2e5b07d-33cf-46bf-b8d0-914fe04b7ec7@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/i6.png@6c48a",
+    "value": {
+      "depends": [
+        "a2e5b07d-33cf-46bf-b8d0-914fe04b7ec7"
+      ]
+    }
+  },
+  "e3553cad-2f15-4293-859a-8f43c780f289@f1394": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/soldier.FBX@f1394",
+    "value": {
+      "depends": []
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@4d16f": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/islands.FBX@4d16f",
+    "value": {
+      "depends": []
+    }
+  },
+  "64caa3cc-2b4b-492d-bb40-12c39dbe18b8@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/i8.png@6c48a",
+    "value": {
+      "depends": [
+        "64caa3cc-2b4b-492d-bb40-12c39dbe18b8"
+      ]
+    }
+  },
+  "e3553cad-2f15-4293-859a-8f43c780f289@75ee4": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/soldier.FBX@75ee4",
+    "value": {
+      "depends": []
+    }
+  },
+  "e3553cad-2f15-4293-859a-8f43c780f289@a72ab": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/soldier.FBX@a72ab",
+    "value": {
+      "depends": []
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@efe84": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/islands.FBX@efe84",
+    "value": {
+      "depends": []
+    }
+  },
+  "e3553cad-2f15-4293-859a-8f43c780f289@e94f1": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/soldier.FBX@e94f1",
+    "value": {
+      "depends": []
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@baeab": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/islands.FBX@baeab",
+    "value": {
+      "depends": []
+    }
+  },
+  "e3553cad-2f15-4293-859a-8f43c780f289@f3caa": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/soldier.FBX@f3caa",
+    "value": {
+      "depends": [
+        "6f891a7b-5a08-48e6-9841-ddb364ac86b1"
+      ]
+    }
+  },
+  "e3553cad-2f15-4293-859a-8f43c780f289@a2be1": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/soldier.FBX@a2be1",
+    "value": {
+      "depends": [
+        "e3553cad-2f15-4293-859a-8f43c780f289@e94f1"
+      ]
+    }
+  },
+  "8753cff0-122c-41e3-904f-3134277b6fd6@f9941": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/i7.png@f9941",
+    "value": {
+      "depends": [
+        "8753cff0-122c-41e3-904f-3134277b6fd6@6c48a"
+      ]
+    }
+  },
+  "fdc9031b-937c-49f1-b8bc-c19d61ef52e2": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/i9.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "a2e5b07d-33cf-46bf-b8d0-914fe04b7ec7@f9941": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/i6.png@f9941",
+    "value": {
+      "depends": [
+        "a2e5b07d-33cf-46bf-b8d0-914fe04b7ec7@6c48a"
+      ]
+    }
+  },
+  "b8dd3521-57fa-4104-a365-83006df6bb45": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/k0.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "64caa3cc-2b4b-492d-bb40-12c39dbe18b8@f9941": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/i8.png@f9941",
+    "value": {
+      "depends": [
+        "64caa3cc-2b4b-492d-bb40-12c39dbe18b8@6c48a"
+      ]
+    }
+  },
+  "e3553cad-2f15-4293-859a-8f43c780f289@d252c": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/soldier.FBX@d252c",
+    "value": {
+      "depends": [
+        "0ac0bbcb-1fdb-44d6-9a19-6e03ed1f6e02",
+        "e3553cad-2f15-4293-859a-8f43c780f289@18751",
+        "e3553cad-2f15-4293-859a-8f43c780f289@30732",
+        "e3553cad-2f15-4293-859a-8f43c780f289@da6f3",
+        "e3553cad-2f15-4293-859a-8f43c780f289@f1394",
+        "e3553cad-2f15-4293-859a-8f43c780f289@4b929",
+        "e3553cad-2f15-4293-859a-8f43c780f289@75ee4",
+        "8aecce42-3e5e-4d2f-afe6-3ef6dc59fa91",
+        "e3553cad-2f15-4293-859a-8f43c780f289@39f7b",
+        "e3553cad-2f15-4293-859a-8f43c780f289@a72ab",
+        "e3553cad-2f15-4293-859a-8f43c780f289@73b7f"
+      ]
+    }
+  },
+  "9a3b1b33-d330-44f8-b4b5-fc4bb79fd589": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/k1.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "d8dc723e-9a3d-4269-af60-f270f49661f9": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/Bag.bin",
+    "value": {}
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@eeccb": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/islands.FBX@eeccb",
+    "value": {
+      "depends": []
+    }
+  },
+  "d1af9467-c99d-4f73-8a50-2d4552015f67": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/Bag_atlas0.png",
+    "value": {}
+  },
+  "fdc9031b-937c-49f1-b8bc-c19d61ef52e2@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/i9.png@6c48a",
+    "value": {
+      "depends": [
+        "fdc9031b-937c-49f1-b8bc-c19d61ef52e2"
+      ]
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@3b6f8": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/islands.FBX@3b6f8",
+    "value": {
+      "depends": []
+    }
+  },
+  "b8dd3521-57fa-4104-a365-83006df6bb45@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/k0.png@6c48a",
+    "value": {
+      "depends": [
+        "b8dd3521-57fa-4104-a365-83006df6bb45"
+      ]
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@2df3a": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/islands.FBX@2df3a",
+    "value": {
+      "depends": [
+        "0ab3142a-6968-4073-95af-026bc3b23623@baeab"
+      ]
+    }
+  },
+  "9a3b1b33-d330-44f8-b4b5-fc4bb79fd589@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/k1.png@6c48a",
+    "value": {
+      "depends": [
+        "9a3b1b33-d330-44f8-b4b5-fc4bb79fd589"
+      ]
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@91a84": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/islands.FBX@91a84",
+    "value": {
+      "depends": [
+        "0ab3142a-6968-4073-95af-026bc3b23623@eeccb"
+      ]
+    }
+  },
+  "d1af9467-c99d-4f73-8a50-2d4552015f67@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/Bag_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "d1af9467-c99d-4f73-8a50-2d4552015f67"
+      ]
+    }
+  },
+  "1c5d6284-67fd-44c4-8d12-4d982e71a1e5": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/Basics.bin",
+    "value": {}
+  },
+  "fdc9031b-937c-49f1-b8bc-c19d61ef52e2@f9941": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/i9.png@f9941",
+    "value": {
+      "depends": [
+        "fdc9031b-937c-49f1-b8bc-c19d61ef52e2@6c48a"
+      ]
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@0595c": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/islands.FBX@0595c",
+    "value": {
+      "depends": [
+        "0ab3142a-6968-4073-95af-026bc3b23623@3b6f8"
+      ]
+    }
+  },
+  "e0653478-ee45-4f25-9581-67c0c09d8ed4": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/Basics_atlas0.png",
+    "value": {}
+  },
+  "b8dd3521-57fa-4104-a365-83006df6bb45@f9941": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/k0.png@f9941",
+    "value": {
+      "depends": [
+        "b8dd3521-57fa-4104-a365-83006df6bb45@6c48a"
+      ]
+    }
+  },
+  "20c28163-f935-4092-ba57-92b4ac6a2d22": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/Basics_gojg7u.wav",
+    "value": {}
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@cc8e5": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/islands.FBX@cc8e5",
+    "value": {
+      "depends": [
+        "2b76fceb-d1c0-4e13-9d80-cab71c98b34e",
+        "0ab3142a-6968-4073-95af-026bc3b23623@2b0a8",
+        "f16ddbfe-63a2-4c1a-bc1f-d693d2f62e59",
+        "0ab3142a-6968-4073-95af-026bc3b23623@4a7d8",
+        "e52021f1-4d04-47a0-9244-761dbd035518",
+        "0ab3142a-6968-4073-95af-026bc3b23623@0e750",
+        "0ab3142a-6968-4073-95af-026bc3b23623@ef86b",
+        "0ab3142a-6968-4073-95af-026bc3b23623@426f2",
+        "0ab3142a-6968-4073-95af-026bc3b23623@754a2",
+        "0ab3142a-6968-4073-95af-026bc3b23623@71919",
+        "0ab3142a-6968-4073-95af-026bc3b23623@1332c",
+        "0ab3142a-6968-4073-95af-026bc3b23623@4d16f",
+        "0ab3142a-6968-4073-95af-026bc3b23623@efe84"
+      ]
+    }
+  },
+  "9a3b1b33-d330-44f8-b4b5-fc4bb79fd589@f9941": {
+    "url": "db://assets/Game/AssetsPackage/resources/Icons/k1.png@f9941",
+    "value": {
+      "depends": [
+        "9a3b1b33-d330-44f8-b4b5-fc4bb79fd589@6c48a"
+      ]
+    }
+  },
+  "605a1307-0164-436a-b98a-d7fca696fc80": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/Basics_o4lt7w.wav",
+    "value": {}
+  },
+  "d457c213-5df4-455f-8f07-c048dadc5316": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/Chat.bin",
+    "value": {}
+  },
+  "f0d93390-b0a2-419d-928e-e2a513a298c1": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/Chat_atlas0.png",
+    "value": {}
+  },
+  "f3be7ffa-6c33-4c8d-8ef5-ae19272217d4": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/Cooldown.bin",
+    "value": {}
+  },
+  "c1777af0-c36c-4f5a-a1f6-56c48735efc7": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/Cooldown_atlas0.png",
+    "value": {}
+  },
+  "e0653478-ee45-4f25-9581-67c0c09d8ed4@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/Basics_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "e0653478-ee45-4f25-9581-67c0c09d8ed4"
+      ]
+    }
+  },
+  "4b8e50bb-0bd9-4a3f-a4b5-7ded776265c2": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/Guide.bin",
+    "value": {}
+  },
+  "990dfce5-7c8d-400f-b1c2-d193817703aa": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/Guide_atlas0.png",
+    "value": {}
+  },
+  "2371a5f1-9dc5-4113-8230-97e5ba1e73d2": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/HitTest.bin",
+    "value": {}
+  },
+  "e9d887ce-75ac-4e54-aff1-55ac9d8a6832": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/HitTest_atlas0.png",
+    "value": {}
+  },
+  "f0d93390-b0a2-419d-928e-e2a513a298c1@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/Chat_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "f0d93390-b0a2-419d-928e-e2a513a298c1"
+      ]
+    }
+  },
+  "a6e39819-2803-4fb1-87e6-dc3a101c9f00": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/Joystick.bin",
+    "value": {}
+  },
+  "c1777af0-c36c-4f5a-a1f6-56c48735efc7@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/Cooldown_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "c1777af0-c36c-4f5a-a1f6-56c48735efc7"
+      ]
+    }
+  },
+  "2f46c221-220f-4401-ae35-031b34af25fc": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/Joystick_atlas0.png",
+    "value": {}
+  },
+  "50e34376-53d5-469e-8fca-0ddeaf2965c5": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/ListEffect.bin",
+    "value": {}
+  },
+  "990dfce5-7c8d-400f-b1c2-d193817703aa@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/Guide_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "990dfce5-7c8d-400f-b1c2-d193817703aa"
+      ]
+    }
+  },
+  "8d8da807-adad-4511-8942-2a605f272f36": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/ListEffect_atlas0.png",
+    "value": {}
+  },
+  "224529ff-4dc9-43c5-929e-301d8bac7221": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/LoopList.bin",
+    "value": {}
+  },
+  "c0a4a596-0b9e-47d7-939c-1be706f93aa6": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/LoopList_atlas0.png",
+    "value": {}
+  },
+  "e9d887ce-75ac-4e54-aff1-55ac9d8a6832@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/HitTest_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "e9d887ce-75ac-4e54-aff1-55ac9d8a6832"
+      ]
+    }
+  },
+  "35c5bd2b-b197-485b-8e5e-92c5d43002f1": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/MainMenu.bin",
+    "value": {}
+  },
+  "2f46c221-220f-4401-ae35-031b34af25fc@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/Joystick_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "2f46c221-220f-4401-ae35-031b34af25fc"
+      ]
+    }
+  },
+  "dbb91a92-0a56-437c-8341-554553c38777": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/MainMenu_atlas0.png",
+    "value": {}
+  },
+  "63725efd-041d-4981-b2ed-4c6e05e12047": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/ModalWaiting.bin",
+    "value": {}
+  },
+  "3190c3e0-adac-435b-bdbc-5a33a213785d": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/ModalWaiting_atlas0.png",
+    "value": {}
+  },
+  "8d8da807-adad-4511-8942-2a605f272f36@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/ListEffect_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "8d8da807-adad-4511-8942-2a605f272f36"
+      ]
+    }
+  },
+  "4ae70000-c7aa-4143-acf0-2452c6849c43": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/PullToRefresh.bin",
+    "value": {}
+  },
+  "a2a1ff99-88a6-44d1-a3b4-fe3594fc9b47": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/PullToRefresh_atlas0.png",
+    "value": {}
+  },
+  "c0a4a596-0b9e-47d7-939c-1be706f93aa6@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/LoopList_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "c0a4a596-0b9e-47d7-939c-1be706f93aa6"
+      ]
+    }
+  },
+  "e1416307-ed46-47cc-b8c3-577b43c6c534": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/ScrollPane.bin",
+    "value": {}
+  },
+  "894b9df4-697c-4c5f-b200-1548351a8203": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/ScrollPane_atlas0.png",
+    "value": {}
+  },
+  "dbb91a92-0a56-437c-8341-554553c38777@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/MainMenu_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "dbb91a92-0a56-437c-8341-554553c38777"
+      ]
+    }
+  },
+  "21562134-233c-424b-8130-2517eda70772": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/Transition.bin",
+    "value": {}
+  },
+  "3190c3e0-adac-435b-bdbc-5a33a213785d@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/ModalWaiting_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "3190c3e0-adac-435b-bdbc-5a33a213785d"
+      ]
+    }
+  },
+  "cffd301d-93fe-4dfe-aeee-ddfde0777291": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/Transition_atlas0.png",
+    "value": {}
+  },
+  "688877ef-3de7-4b47-b4cf-e61d6212e2e4": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/Transition_lvxrs.mp3",
+    "value": {}
+  },
+  "04fa88b4-e27b-473b-9bec-1724c46f8844": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/TreeView.bin",
+    "value": {}
+  },
+  "a2a1ff99-88a6-44d1-a3b4-fe3594fc9b47@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/PullToRefresh_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "a2a1ff99-88a6-44d1-a3b4-fe3594fc9b47"
+      ]
+    }
+  },
+  "a91a704a-8927-4157-a2fc-f65ad0081803": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/TreeView_atlas0.png",
+    "value": {}
+  },
+  "894b9df4-697c-4c5f-b200-1548351a8203@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/ScrollPane_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "894b9df4-697c-4c5f-b200-1548351a8203"
+      ]
+    }
+  },
+  "d3ea3d2b-ac3c-45f6-822e-cd418a97c138": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/VirtualList.bin",
+    "value": {}
+  },
+  "ae1dcc65-8a9a-4129-adff-546c71eea4d4": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/VirtualList_atlas0.png",
+    "value": {}
+  },
+  "aade09ee-8f9d-413c-a9e8-8c686ea5e160": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/grass/grass.FBX",
+    "value": {
+      "depends": []
+    }
+  },
+  "b698e55a-b00b-4987-a8b4-af83cddc59f7": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/grass/grass.mtl",
+    "value": {
+      "depends": [
+        "a3cd009f-0ab0-420d-9278-b9fdab939bbc",
+        "ae18deea-c6e0-4a3d-bf70-ee5533f9ba87@6c48a"
+      ]
+    }
+  },
+  "cffd301d-93fe-4dfe-aeee-ddfde0777291@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/Transition_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "cffd301d-93fe-4dfe-aeee-ddfde0777291"
+      ]
+    }
+  },
+  "ae18deea-c6e0-4a3d-bf70-ee5533f9ba87": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/grass/grass.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "a91a704a-8927-4157-a2fc-f65ad0081803@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/TreeView_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "a91a704a-8927-4157-a2fc-f65ad0081803"
+      ]
+    }
+  },
+  "ebe68402-4803-40d3-b0a2-ca696e3f7c60": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/grass/grass.prefab",
+    "value": {
+      "depends": [
+        "b698e55a-b00b-4987-a8b4-af83cddc59f7",
+        "aade09ee-8f9d-413c-a9e8-8c686ea5e160@ef5e1",
+        "aade09ee-8f9d-413c-a9e8-8c686ea5e160@438fe",
+        "aade09ee-8f9d-413c-a9e8-8c686ea5e160@73b7f"
+      ],
+      "dependScripts": []
+    }
+  },
+  "5e4d48c4-0e34-45af-a268-89485197e8bc": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/grass/grassGoup.prefab",
+    "value": {
+      "depends": [
+        "b698e55a-b00b-4987-a8b4-af83cddc59f7",
+        "aade09ee-8f9d-413c-a9e8-8c686ea5e160@ef5e1",
+        "aade09ee-8f9d-413c-a9e8-8c686ea5e160@438fe",
+        "aade09ee-8f9d-413c-a9e8-8c686ea5e160@73b7f"
+      ],
+      "dependScripts": []
+    }
+  },
+  "ae1dcc65-8a9a-4129-adff-546c71eea4d4@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/resources/UI/VirtualList_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "ae1dcc65-8a9a-4129-adff-546c71eea4d4"
+      ]
+    }
+  },
+  "ae18deea-c6e0-4a3d-bf70-ee5533f9ba87@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/grass/grass.png@6c48a",
+    "value": {
+      "depends": [
+        "ae18deea-c6e0-4a3d-bf70-ee5533f9ba87"
+      ]
+    }
+  },
+  "a77b934c-03f1-46a3-9131-00bba712a138": {
+    "url": "db://assets/material",
+    "value": {}
+  },
+  "91b22706-89d1-4b94-976c-ea2c7647248b": {
+    "url": "db://assets/material/hdcSky.mtl",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4",
+        "929e58ce-66a4-4e04-9036-4244456a1220@d6067"
+      ]
+    }
+  },
+  "2b76fceb-d1c0-4e13-9d80-cab71c98b34e": {
+    "url": "db://assets/material/seafloor.mtl",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4",
+        "0ab3142a-6968-4073-95af-026bc3b23623@2df3a"
+      ]
+    }
+  },
+  "f16ddbfe-63a2-4c1a-bc1f-d693d2f62e59": {
+    "url": "db://assets/material/stone.mtl",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4",
+        "0ab3142a-6968-4073-95af-026bc3b23623@91a84"
+      ]
+    }
+  },
+  "e52021f1-4d04-47a0-9244-761dbd035518": {
+    "url": "db://assets/material/tree.mtl",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4",
+        "0ab3142a-6968-4073-95af-026bc3b23623@0595c"
+      ]
+    }
+  },
+  "0ac0bbcb-1fdb-44d6-9a19-6e03ed1f6e02": {
+    "url": "db://assets/material/soldier.mtl",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4",
+        "e3553cad-2f15-4293-859a-8f43c780f289@f3caa"
+      ]
+    }
+  },
+  "8aecce42-3e5e-4d2f-afe6-3ef6dc59fa91": {
+    "url": "db://assets/material/shield.mtl",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4",
+        "e3553cad-2f15-4293-859a-8f43c780f289@a2be1"
+      ]
+    }
+  },
+  "aade09ee-8f9d-413c-a9e8-8c686ea5e160@ef5e1": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/grass/grass.FBX@ef5e1",
+    "value": {
+      "depends": []
+    }
+  },
+  "aade09ee-8f9d-413c-a9e8-8c686ea5e160@73b7f": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/grass/grass.FBX@73b7f",
+    "value": {
+      "depends": []
+    }
+  },
+  "aade09ee-8f9d-413c-a9e8-8c686ea5e160@438fe": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/grass/grass.FBX@438fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "aade09ee-8f9d-413c-a9e8-8c686ea5e160@80e0c": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/grass/grass.FBX@80e0c",
+    "value": {
+      "depends": []
+    }
+  },
+  "aade09ee-8f9d-413c-a9e8-8c686ea5e160@9787f": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/grass/grass.FBX@9787f",
+    "value": {
+      "depends": [
+        "aade09ee-8f9d-413c-a9e8-8c686ea5e160@80e0c"
+      ]
+    }
+  },
+  "aade09ee-8f9d-413c-a9e8-8c686ea5e160@3022b": {
+    "url": "db://assets/Game/AssetsPackage/model/helloWorld/grass/grass.FBX@3022b",
+    "value": {
+      "depends": [
+        "046c2d79-f888-4d9e-b4ed-b929f5266f23",
+        "aade09ee-8f9d-413c-a9e8-8c686ea5e160@ef5e1",
+        "aade09ee-8f9d-413c-a9e8-8c686ea5e160@438fe",
+        "aade09ee-8f9d-413c-a9e8-8c686ea5e160@73b7f"
+      ]
+    }
+  },
+  "daae70cb-2fcc-4273-b3db-95b8bfde7a85": {
+    "url": "db://assets/model",
+    "value": {}
+  },
+  "2d06eac3-614a-4e32-9e84-b1d733360cb9": {
+    "url": "db://assets/model/helloWorld",
+    "value": {}
+  },
+  "2ddda6bf-b77e-42b4-9d5e-9f1b281080be": {
+    "url": "db://assets/model/helloWorld/grass",
+    "value": {}
+  },
+  "046c2d79-f888-4d9e-b4ed-b929f5266f23": {
+    "url": "db://assets/model/helloWorld/grass/grass.mtl",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4",
+        "aade09ee-8f9d-413c-a9e8-8c686ea5e160@9787f"
+      ]
+    }
+  },
+  "ab58a91d-0a58-446e-9331-fc1a887beedf": {
+    "url": "db://assets/Game/AssetsPackage/UI",
+    "value": {}
+  },
+  "52b12a1f-61e3-41ba-ab0e-20ee57718f0f": {
+    "url": "db://assets/Framework/Scripts/UI/UIControl.ts",
+    "value": {}
+  },
+  "8a182b49-deb4-4a9b-80ec-10c1be2c7ab6": {
+    "url": "db://assets/Framework/Scripts/UI/UIWindow.ts",
+    "value": {}
+  },
+  "061cc7ec-0b5c-451c-92ed-9c04d74b0373": {
+    "url": "db://assets/Game/AssetsPackage/UI/Bag.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "87b45e82-6212-4acc-8cb4-50be968903c6": {
+    "url": "db://assets/Game/AssetsPackage/UI/Basics.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "8c458d24-4458-455e-bca3-319fb0df1a8a": {
+    "url": "db://assets/Game/AssetsPackage/UI/Basics_gojg7u.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "e7840d21-86b4-44dc-af7a-87ec0c5c46d0": {
+    "url": "db://assets/Game/AssetsPackage/UI/Bag_atlas0.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "84db2329-03f7-4085-8e8d-19ae365d52d7": {
+    "url": "db://assets/Game/AssetsPackage/UI/Basics_atlas0.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "690c66ad-2383-48ee-a2db-45cbbcce65b8": {
+    "url": "db://assets/Game/AssetsPackage/UI/Basics_o4lt7w.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "a56cd633-6279-46e4-8b9c-1c523af3ad95": {
+    "url": "db://assets/Game/AssetsPackage/UI/Chat.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "9a03c017-401d-43da-8810-522373738b7f": {
+    "url": "db://assets/Game/AssetsPackage/UI/Chat_atlas0.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "e7840d21-86b4-44dc-af7a-87ec0c5c46d0@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/UI/Bag_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "e7840d21-86b4-44dc-af7a-87ec0c5c46d0"
+      ]
+    }
+  },
+  "865ed4f8-75b1-4618-b533-00c445fed116": {
+    "url": "db://assets/Game/AssetsPackage/UI/Cooldown.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "85f6bbad-1593-4c67-b339-4f075b0208dd": {
+    "url": "db://assets/Game/AssetsPackage/UI/Cooldown_atlas0.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "3998b77e-bd45-434f-89f2-79e44403020a": {
+    "url": "db://assets/Game/AssetsPackage/UI/Guide.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "14b76596-87b1-4e1a-a9dd-1059cfcb5573": {
+    "url": "db://assets/Game/AssetsPackage/UI/Guide_atlas0.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "9665111f-84c7-4adb-a8b8-1c8a15b1043a": {
+    "url": "db://assets/Game/AssetsPackage/UI/HitTest.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "6ce39abd-fbe7-4591-a252-664a91392651": {
+    "url": "db://assets/Game/AssetsPackage/UI/HitTest_atlas0.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "85f6bbad-1593-4c67-b339-4f075b0208dd@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/UI/Cooldown_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "85f6bbad-1593-4c67-b339-4f075b0208dd"
+      ]
+    }
+  },
+  "b0630f84-993a-4458-b91a-2e0096fe9f08": {
+    "url": "db://assets/Game/AssetsPackage/UI/Joystick.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "84db2329-03f7-4085-8e8d-19ae365d52d7@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/UI/Basics_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "84db2329-03f7-4085-8e8d-19ae365d52d7"
+      ]
+    }
+  },
+  "3d168a7a-be6a-4c0e-a380-2381560340ae": {
+    "url": "db://assets/Game/AssetsPackage/UI/Joystick_atlas0.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "43c8de74-2db4-4a7a-ac95-66708856c0be": {
+    "url": "db://assets/Game/AssetsPackage/UI/ListEffect.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "9a03c017-401d-43da-8810-522373738b7f@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/UI/Chat_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "9a03c017-401d-43da-8810-522373738b7f"
+      ]
+    }
+  },
+  "32ffe8c2-7953-4986-bb7b-be69d2bfaa2f": {
+    "url": "db://assets/Game/AssetsPackage/UI/ListEffect_atlas0.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "6f1bb5e7-1fc3-47b9-aa78-a1afcb8bba3a": {
+    "url": "db://assets/Game/AssetsPackage/UI/LoopList.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "14b76596-87b1-4e1a-a9dd-1059cfcb5573@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/UI/Guide_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "14b76596-87b1-4e1a-a9dd-1059cfcb5573"
+      ]
+    }
+  },
+  "f58a9837-9a57-4284-8505-bc5de2db7e8d": {
+    "url": "db://assets/Game/AssetsPackage/UI/LoopList_atlas0.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "b950c175-b4c7-4e32-9a07-311843af5359": {
+    "url": "db://assets/Game/AssetsPackage/UI/MainMenu.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "9e428723-ae99-4d76-a8da-cfd7e4e097b0": {
+    "url": "db://assets/Game/AssetsPackage/UI/MainMenu_atlas0.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "6ce39abd-fbe7-4591-a252-664a91392651@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/UI/HitTest_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "6ce39abd-fbe7-4591-a252-664a91392651"
+      ]
+    }
+  },
+  "7b644981-3fc4-473e-9258-a18e4d141639": {
+    "url": "db://assets/Game/AssetsPackage/UI/ModalWaiting.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "32ffe8c2-7953-4986-bb7b-be69d2bfaa2f@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/UI/ListEffect_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "32ffe8c2-7953-4986-bb7b-be69d2bfaa2f"
+      ]
+    }
+  },
+  "3d168a7a-be6a-4c0e-a380-2381560340ae@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/UI/Joystick_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "3d168a7a-be6a-4c0e-a380-2381560340ae"
+      ]
+    }
+  },
+  "f0dd1b77-0ee6-4f99-8738-4f57871b2f66": {
+    "url": "db://assets/Game/AssetsPackage/UI/ModalWaiting_atlas0.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "bd099fb0-01dc-431d-ad37-1bc24475b326": {
+    "url": "db://assets/Game/AssetsPackage/UI/PullToRefresh.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "fc8f2d90-7106-4a01-8963-49ecd1ecec86": {
+    "url": "db://assets/Game/AssetsPackage/UI/PullToRefresh_atlas0.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "5c369672-0274-42ec-b773-7e1289d4c854": {
+    "url": "db://assets/Game/AssetsPackage/UI/ScrollPane.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "16fa5170-a566-4de0-b337-01707de1f699": {
+    "url": "db://assets/Game/AssetsPackage/UI/ScrollPane_atlas0.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "9e428723-ae99-4d76-a8da-cfd7e4e097b0@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/UI/MainMenu_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "9e428723-ae99-4d76-a8da-cfd7e4e097b0"
+      ]
+    }
+  },
+  "e9134331-d747-488f-9952-ec3292eeaa9c": {
+    "url": "db://assets/Game/AssetsPackage/UI/Transition.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "e0a28b61-281d-45ad-92eb-9153a4326cfd": {
+    "url": "db://assets/Game/AssetsPackage/UI/Transition_atlas0.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "f58a9837-9a57-4284-8505-bc5de2db7e8d@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/UI/LoopList_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "f58a9837-9a57-4284-8505-bc5de2db7e8d"
+      ]
+    }
+  },
+  "068c6476-1e54-4cb4-9298-c044b6bd1283": {
+    "url": "db://assets/Game/AssetsPackage/UI/Transition_lvxrs.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "f0dd1b77-0ee6-4f99-8738-4f57871b2f66@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/UI/ModalWaiting_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "f0dd1b77-0ee6-4f99-8738-4f57871b2f66"
+      ]
+    }
+  },
+  "293ab258-af29-47a5-b89a-09fb59ef6752": {
+    "url": "db://assets/Game/AssetsPackage/UI/TreeView.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "fc8f2d90-7106-4a01-8963-49ecd1ecec86@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/UI/PullToRefresh_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "fc8f2d90-7106-4a01-8963-49ecd1ecec86"
+      ]
+    }
+  },
+  "559ef65e-6c81-43b9-bf2c-e393c4e7bf47": {
+    "url": "db://assets/Game/AssetsPackage/UI/TreeView_atlas0.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "16fa5170-a566-4de0-b337-01707de1f699@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/UI/ScrollPane_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "16fa5170-a566-4de0-b337-01707de1f699"
+      ]
+    }
+  },
+  "b6ca21ae-1660-4cf5-a92f-8c138d9e0a96": {
+    "url": "db://assets/Game/AssetsPackage/UI/VirtualList.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "3c5b4d94-d3ad-4a57-b7c3-e654ae9aff86": {
+    "url": "db://assets/Game/AssetsPackage/UI/VirtualList_atlas0.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "e041a390-73a7-44d0-8f62-e6d236d2abea": {
+    "url": "db://assets/Game/Scripts/demo/BagDemo.ts",
+    "value": {}
+  },
+  "d8418bbe-3279-4f48-8921-7c4410cfbeb3": {
+    "url": "db://assets/Game/Scripts/demo/BasicsDemo.ts",
+    "value": {}
+  },
+  "446f3f07-a6c7-4467-a3a3-5d0d82b1cfd0": {
+    "url": "db://assets/Game/Scripts/demo/ChatDemo.ts",
+    "value": {}
+  },
+  "7121f56b-e259-41a7-8c0a-d8a2052695bf": {
+    "url": "db://assets/Game/Scripts/demo/CooldownDemo.ts",
+    "value": {}
+  },
+  "f68044fa-8308-4384-8272-a4e0a60244ab": {
+    "url": "db://assets/Game/Scripts/demo/EmojiParser.ts",
+    "value": {}
+  },
+  "616f4427-aa70-476c-b186-eb74a843401f": {
+    "url": "db://assets/Game/Scripts/demo/GuideDemo.ts",
+    "value": {}
+  },
+  "6a7aa696-ddbb-4c67-9444-565bfd4c6a85": {
+    "url": "db://assets/Game/Scripts/demo/HitTestDemo.ts",
+    "value": {}
+  },
+  "62296569-f64e-44b3-a9d2-72f00b799fdd": {
+    "url": "db://assets/Game/Scripts/demo/JoystickDemo.ts",
+    "value": {}
+  },
+  "495253d7-8d56-4704-977c-b6a6e072e62d": {
+    "url": "db://assets/Game/Scripts/demo/JoystickModule.ts",
+    "value": {}
+  },
+  "8b283568-3483-4098-9fa5-6135ad8f9cb4": {
+    "url": "db://assets/Game/Scripts/demo/ListEffectDemo.ts",
+    "value": {}
+  },
+  "f637bdc3-5cb4-432b-9dca-2d213e05c122": {
+    "url": "db://assets/Game/Scripts/demo/LoopListDemo.ts",
+    "value": {}
+  },
+  "f1ede0f4-153a-457d-b0b7-50e80c53eae4": {
+    "url": "db://assets/Game/Scripts/demo/MailItem.ts",
+    "value": {}
+  },
+  "b0a44c84-a2c7-4bab-879e-94ff8dc1353c": {
+    "url": "db://assets/Game/Scripts/demo/MainMenu.ts",
+    "value": {}
+  },
+  "efd7b8e3-6406-4c55-b131-c77063a9eb99": {
+    "url": "db://assets/Game/Scripts/demo/ModalWaitingDemo.ts",
+    "value": {}
+  },
+  "47032bf8-578e-426e-bf60-c689eed2d1bd": {
+    "url": "db://assets/Game/Scripts/demo/PullToRefreshDemo.ts",
+    "value": {}
+  },
+  "559ef65e-6c81-43b9-bf2c-e393c4e7bf47@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/UI/TreeView_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "559ef65e-6c81-43b9-bf2c-e393c4e7bf47"
+      ]
+    }
+  },
+  "d74206e7-b004-4cef-9a36-81ea0f5b4696": {
+    "url": "db://assets/Game/Scripts/demo/ScrollPaneDemo.ts",
+    "value": {}
+  },
+  "d91008fd-74b7-45eb-a1b9-50ff5665240b": {
+    "url": "db://assets/Game/Scripts/demo/ScrollPaneHeader.ts",
+    "value": {}
+  },
+  "4f9a2285-2a83-4692-afeb-cd3c81662ec6": {
+    "url": "db://assets/Game/Scripts/demo/TestWin.ts",
+    "value": {}
+  },
+  "4ca5c919-ef9d-4e7f-9234-21b1b390f906": {
+    "url": "db://assets/Game/Scripts/demo/TransitionDemo.ts",
+    "value": {}
+  },
+  "62e18693-0be5-402e-9967-32df51a61e7d": {
+    "url": "db://assets/Game/Scripts/demo/TreeViewDemo.ts",
+    "value": {}
+  },
+  "82a334ff-a872-42de-9f6e-20e7bc4e276a": {
+    "url": "db://assets/Game/Scripts/demo/VirtualListDemo.ts",
+    "value": {}
+  },
+  "3c5b4d94-d3ad-4a57-b7c3-e654ae9aff86@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/UI/VirtualList_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "3c5b4d94-d3ad-4a57-b7c3-e654ae9aff86"
+      ]
+    }
+  },
+  "e0a28b61-281d-45ad-92eb-9153a4326cfd@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/UI/Transition_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "e0a28b61-281d-45ad-92eb-9153a4326cfd"
+      ]
+    }
+  },
+  "49f2ec90-f317-49c3-8f15-deb7cecc5a70": {
+    "url": "db://assets/Framework/Scripts/UI/UIBase.ts",
+    "value": {}
+  },
+  "3e7d4097-95d7-44ec-b64a-028cb45e2e8b": {
+    "url": "db://assets/Game/AssetsPackage/Scenes/demo.scene",
+    "value": {
+      "depends": [
+        "3e7d4097-95d7-44ec-b64a-028cb45e2e8b",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+      ],
+      "dependScripts": [
+        "11dc35e7-efdf-4ae1-bf19-93639babc3f3"
+      ]
+    }
+  },
+  "11dc35e7-efdf-4ae1-bf19-93639babc3f3": {
+    "url": "db://assets/Game/Scripts/demo/demo.ts",
+    "value": {}
+  },
+  "ff6638f7-d847-4af1-8e38-e361c51e4508": {
+    "url": "db://assets/Framework/Scripts/Managers/FGUIManager.ts",
+    "value": {}
   }
 }

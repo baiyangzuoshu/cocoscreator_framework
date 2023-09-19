@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.26",
+  "importer": "image",
+  "imported": true,
+  "uuid": "3c5b4d94-d3ad-4a57-b7c3-e654ae9aff86",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "VirtualList_atlas0": {
+      "ver": "1.0.6",
+      "uuid": "c7ff7563-42fc-4247-87e9-6bfb02cf18cb",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "3c5b4d94-d3ad-4a57-b7c3-e654ae9aff86",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -13,
+      "offsetY": 13,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 486,
+      "height": 230,
+      "rawWidth": 512,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "3c5b4d94-d3ad-4a57-b7c3-e654ae9aff86@6c48a",
+      "displayName": "VirtualList_atlas0",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3c5b4d94-d3ad-4a57-b7c3-e654ae9aff86",
+        "visible": false
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "3c5b4d94-d3ad-4a57-b7c3-e654ae9aff86@6c48a"
+  }
+}

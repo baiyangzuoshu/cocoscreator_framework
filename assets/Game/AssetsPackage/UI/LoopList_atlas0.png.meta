@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.26",
+  "importer": "image",
+  "imported": true,
+  "uuid": "f58a9837-9a57-4284-8505-bc5de2db7e8d",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "LoopList_atlas0": {
+      "ver": "1.0.6",
+      "uuid": "bbbb030e-a12e-49c4-b627-6a0012505b0e",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f58a9837-9a57-4284-8505-bc5de2db7e8d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -8,
+      "offsetY": 7,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1008,
+      "height": 498,
+      "rawWidth": 1024,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "f58a9837-9a57-4284-8505-bc5de2db7e8d@6c48a",
+      "displayName": "LoopList_atlas0",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f58a9837-9a57-4284-8505-bc5de2db7e8d",
+        "visible": false
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "f58a9837-9a57-4284-8505-bc5de2db7e8d@6c48a"
+  }
+}

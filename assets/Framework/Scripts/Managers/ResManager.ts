@@ -12,7 +12,7 @@ export class ResManager extends Component {
         ResManager.Instance = this;
     }
 
-    private async IE_LoadBundle(bundleName: string) {
+    public async IE_LoadBundle(bundleName: string) {
         return new Promise((resolve, reject)=>{
             assetManager.loadBundle(bundleName, (err, bundleData)=>{
                 if(err) {

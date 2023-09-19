@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.26",
+  "importer": "image",
+  "imported": true,
+  "uuid": "e7840d21-86b4-44dc-af7a-87ec0c5c46d0",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "Bag_atlas0": {
+      "ver": "1.0.6",
+      "uuid": "b712bfaf-85c5-4ae9-9dde-ce46bdd2f657",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e7840d21-86b4-44dc-af7a-87ec0c5c46d0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 2,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1021,
+      "height": 508,
+      "rawWidth": 1024,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "e7840d21-86b4-44dc-af7a-87ec0c5c46d0@6c48a",
+      "displayName": "Bag_atlas0",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "e7840d21-86b4-44dc-af7a-87ec0c5c46d0",
+        "visible": false
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "e7840d21-86b4-44dc-af7a-87ec0c5c46d0@6c48a"
+  }
+}

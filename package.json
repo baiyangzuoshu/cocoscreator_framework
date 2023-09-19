@@ -5,6 +5,7 @@
     "version": "3.8.0"
   },
   "dependencies": {
+    "fairygui-cc": "^1.1.1",
     "protobufjs": "^7.2.5",
     "protobufjs-cli": "^1.1.2"
   },

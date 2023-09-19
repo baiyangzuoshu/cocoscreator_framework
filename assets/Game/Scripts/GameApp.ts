@@ -31,11 +31,20 @@ export class GameApp extends Component {
 
     }
 
+    public demo(){
+        SceneManager.Instance.IE_RunScene("demo");
+    }
+
     public async EnterGame() {
         console.log("EnterGame #######");
         // 由其它开发者来接管整个游戏项目的代码编写;
         // SceneManager.Instance.EnterScene("main"); // 如果你把场景当作是ab包的，那么加载不到;
         SceneManager.Instance.IE_RunScene("main");
+        // UIManager的测试
+        UIManager.Instance.IE_ShowUIView("UIGame");
+        TimerManager.Instance.ScheduleOnce(()=>{
+            UIManager.Instance.DestroyUIView("UIGame");
+        }, this, 5);
         // end
 
         /*
@@ -169,11 +178,7 @@ export class GameApp extends Component {
         // end
         */
 
-        // UIManager的测试
-        UIManager.Instance.IE_ShowUIView("UIGame");
-        TimerManager.Instance.ScheduleOnce(()=>{
-            UIManager.Instance.DestroyUIView("UIGame");
-        }, this, 5);
+        
         // end
     }
     

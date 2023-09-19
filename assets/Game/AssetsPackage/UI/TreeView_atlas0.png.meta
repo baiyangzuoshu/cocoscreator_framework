@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.26",
+  "importer": "image",
+  "imported": true,
+  "uuid": "559ef65e-6c81-43b9-bf2c-e393c4e7bf47",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "TreeView_atlas0": {
+      "ver": "1.0.6",
+      "uuid": "a9b20974-b379-4250-b73b-5bad0cda0120",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "559ef65e-6c81-43b9-bf2c-e393c4e7bf47",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 8.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 253,
+      "height": 239,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "559ef65e-6c81-43b9-bf2c-e393c4e7bf47@6c48a",
+      "displayName": "TreeView_atlas0",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "559ef65e-6c81-43b9-bf2c-e393c4e7bf47",
+        "visible": false
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "559ef65e-6c81-43b9-bf2c-e393c4e7bf47@6c48a"
+  }
+}

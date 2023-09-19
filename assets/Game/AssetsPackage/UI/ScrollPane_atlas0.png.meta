@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.26",
+  "importer": "image",
+  "imported": true,
+  "uuid": "16fa5170-a566-4de0-b337-01707de1f699",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "ScrollPane_atlas0": {
+      "ver": "1.0.6",
+      "uuid": "3f6c8033-6245-4c55-9062-d11cb15a487c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "16fa5170-a566-4de0-b337-01707de1f699",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -21,
+      "offsetY": 19,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 86,
+      "height": 90,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "16fa5170-a566-4de0-b337-01707de1f699@6c48a",
+      "displayName": "ScrollPane_atlas0",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "16fa5170-a566-4de0-b337-01707de1f699",
+        "visible": false
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "16fa5170-a566-4de0-b337-01707de1f699@6c48a"
+  }
+}
