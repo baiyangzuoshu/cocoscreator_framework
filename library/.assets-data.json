@@ -1777,57 +1777,27 @@
   },
   "91b22706-89d1-4b94-976c-ea2c7647248b": {
     "url": "db://assets/material/hdcSky.mtl",
-    "value": {
-      "depends": [
-        "c8f66d17-351a-48da-a12c-0212d28575c4",
-        "929e58ce-66a4-4e04-9036-4244456a1220@d6067"
-      ]
-    }
+    "value": {}
   },
   "2b76fceb-d1c0-4e13-9d80-cab71c98b34e": {
     "url": "db://assets/material/seafloor.mtl",
-    "value": {
-      "depends": [
-        "c8f66d17-351a-48da-a12c-0212d28575c4",
-        "0ab3142a-6968-4073-95af-026bc3b23623@2df3a"
-      ]
-    }
+    "value": {}
   },
   "f16ddbfe-63a2-4c1a-bc1f-d693d2f62e59": {
     "url": "db://assets/material/stone.mtl",
-    "value": {
-      "depends": [
-        "c8f66d17-351a-48da-a12c-0212d28575c4",
-        "0ab3142a-6968-4073-95af-026bc3b23623@91a84"
-      ]
-    }
+    "value": {}
   },
   "e52021f1-4d04-47a0-9244-761dbd035518": {
     "url": "db://assets/material/tree.mtl",
-    "value": {
-      "depends": [
-        "c8f66d17-351a-48da-a12c-0212d28575c4",
-        "0ab3142a-6968-4073-95af-026bc3b23623@0595c"
-      ]
-    }
+    "value": {}
   },
   "0ac0bbcb-1fdb-44d6-9a19-6e03ed1f6e02": {
     "url": "db://assets/material/soldier.mtl",
-    "value": {
-      "depends": [
-        "c8f66d17-351a-48da-a12c-0212d28575c4",
-        "e3553cad-2f15-4293-859a-8f43c780f289@f3caa"
-      ]
-    }
+    "value": {}
   },
   "8aecce42-3e5e-4d2f-afe6-3ef6dc59fa91": {
     "url": "db://assets/material/shield.mtl",
-    "value": {
-      "depends": [
-        "c8f66d17-351a-48da-a12c-0212d28575c4",
-        "e3553cad-2f15-4293-859a-8f43c780f289@a2be1"
-      ]
-    }
+    "value": {}
   },
   "aade09ee-8f9d-413c-a9e8-8c686ea5e160@ef5e1": {
     "url": "db://assets/Game/AssetsPackage/model/helloWorld/grass/grass.FBX@ef5e1",
@@ -1886,12 +1856,7 @@
   },
   "046c2d79-f888-4d9e-b4ed-b929f5266f23": {
     "url": "db://assets/model/helloWorld/grass/grass.mtl",
-    "value": {
-      "depends": [
-        "c8f66d17-351a-48da-a12c-0212d28575c4",
-        "aade09ee-8f9d-413c-a9e8-8c686ea5e160@9787f"
-      ]
-    }
+    "value": {}
   },
   "ab58a91d-0a58-446e-9331-fc1a887beedf": {
     "url": "db://assets/Game/AssetsPackage/UI",

@@ -1772,12 +1772,6 @@
       "time": 1695034395893.2505,
       "uuid": "ccc3a755-7d3d-4304-aa3b-ca4792d79d9f"
     },
-    "D:\\work\\cocoscreator_framework\\assets\\material.meta": {
-      "time": 1695034396724.5574
-    },
-    "D:\\work\\cocoscreator_framework\\assets\\material\\hdcSky.mtl.meta": {
-      "time": 1695034396759.4644
-    },
     "D:\\work\\cocoscreator_framework\\assets\\Game\\AssetsPackage\\model\\helloWorld\\seafloor.jpg": {
       "time": 1686131646629.9783,
       "uuid": "4f4c4a34-2d08-4a4d-9169-834d7ce82cee"
@@ -1810,15 +1804,6 @@
       "time": 1686131646639.9524,
       "uuid": "c5083e75-ad2e-4ea9-8b33-dee748995b00"
     },
-    "D:\\work\\cocoscreator_framework\\assets\\material\\seafloor.mtl.meta": {
-      "time": 1695034396760.4626
-    },
-    "D:\\work\\cocoscreator_framework\\assets\\material\\stone.mtl.meta": {
-      "time": 1695034396770.4348
-    },
-    "D:\\work\\cocoscreator_framework\\assets\\material\\tree.mtl.meta": {
-      "time": 1695034396761.4592
-    },
     "D:\\work\\cocoscreator_framework\\assets\\Game\\AssetsPackage\\skybox\\sunnySkyBox.jpg": {
       "time": 1686131646700.7888,
       "uuid": "5af201b5-5951-4e2c-a81f-ac4aad9132cb"
@@ -1830,12 +1815,6 @@
     "D:\\work\\cocoscreator_framework\\assets\\Game\\AssetsPackage\\resources\\Icons\\i1.png": {
       "time": 1686131630393.995,
       "uuid": "1bbaa412-d976-40a8-a8a1-ef1665b057cc"
-    },
-    "D:\\work\\cocoscreator_framework\\assets\\material\\soldier.mtl.meta": {
-      "time": 1695034396771.4324
-    },
-    "D:\\work\\cocoscreator_framework\\assets\\material\\shield.mtl.meta": {
-      "time": 1695034396803.3464
     },
     "D:\\work\\cocoscreator_framework\\assets\\Game\\AssetsPackage\\resources\\Icons\\i2.png": {
       "time": 1686131630393.995,
@@ -1901,65 +1880,9 @@
       "time": 1695034396702.6162,
       "uuid": "5e4d48c4-0e34-45af-a268-89485197e8bc"
     },
-    "D:\\work\\cocoscreator_framework\\assets\\material": {
-      "time": 1695034396240.322,
-      "uuid": "a77b934c-03f1-46a3-9131-00bba712a138"
-    },
-    "D:\\work\\cocoscreator_framework\\assets\\material\\hdcSky.mtl": {
-      "time": 1695034395913.198,
-      "uuid": "91b22706-89d1-4b94-976c-ea2c7647248b"
-    },
-    "D:\\work\\cocoscreator_framework\\assets\\material\\seafloor.mtl": {
-      "time": 1695034396116.6526,
-      "uuid": "2b76fceb-d1c0-4e13-9d80-cab71c98b34e"
-    },
-    "D:\\work\\cocoscreator_framework\\assets\\material\\tree.mtl": {
-      "time": 1695034396120.6423,
-      "uuid": "e52021f1-4d04-47a0-9244-761dbd035518"
-    },
-    "D:\\work\\cocoscreator_framework\\assets\\material\\stone.mtl": {
-      "time": 1695034396118.6482,
-      "uuid": "f16ddbfe-63a2-4c1a-bc1f-d693d2f62e59"
-    },
-    "D:\\work\\cocoscreator_framework\\assets\\material\\soldier.mtl": {
-      "time": 1695034396237.3298,
-      "uuid": "0ac0bbcb-1fdb-44d6-9a19-6e03ed1f6e02"
-    },
-    "D:\\work\\cocoscreator_framework\\assets\\material\\shield.mtl": {
-      "time": 1695034396239.3245,
-      "uuid": "8aecce42-3e5e-4d2f-afe6-3ef6dc59fa91"
-    },
-    "D:\\work\\cocoscreator_framework\\assets\\model.meta": {
-      "time": 1695034397020.765
-    },
-    "D:\\work\\cocoscreator_framework\\assets\\model\\helloWorld.meta": {
-      "time": 1695034397029.7415
-    },
-    "D:\\work\\cocoscreator_framework\\assets\\model\\helloWorld\\grass.meta": {
-      "time": 1695034397034.7278
-    },
-    "D:\\work\\cocoscreator_framework\\assets\\model\\helloWorld\\grass\\grass.mtl.meta": {
-      "time": 1695034397048.6904
-    },
     "D:\\work\\cocoscreator_framework\\assets\\Game\\AssetsPackage\\model\\helloWorld\\grass\\grass.FBX": {
       "time": 1686131646611.0537,
       "uuid": "aade09ee-8f9d-413c-a9e8-8c686ea5e160"
-    },
-    "D:\\work\\cocoscreator_framework\\assets\\model": {
-      "time": 1695034396965.912,
-      "uuid": "daae70cb-2fcc-4273-b3db-95b8bfde7a85"
-    },
-    "D:\\work\\cocoscreator_framework\\assets\\model\\helloWorld": {
-      "time": 1695034396965.912,
-      "uuid": "2d06eac3-614a-4e32-9e84-b1d733360cb9"
-    },
-    "D:\\work\\cocoscreator_framework\\assets\\model\\helloWorld\\grass": {
-      "time": 1695034396966.9097,
-      "uuid": "2ddda6bf-b77e-42b4-9d5e-9f1b281080be"
-    },
-    "D:\\work\\cocoscreator_framework\\assets\\model\\helloWorld\\grass\\grass.mtl": {
-      "time": 1695034396962.921,
-      "uuid": "046c2d79-f888-4d9e-b4ed-b929f5266f23"
     },
     "D:\\work\\cocoscreator_framework\\assets\\Game\\AssetsPackage\\UI.meta": {
       "time": 1695128727080.6128
@@ -2441,6 +2364,61 @@
       "path": "D:\\work\\cocoscreator_framework\\assets\\Game\\AssetsPackage\\resources\\UI\\VirtualList_atlas0.png",
       "time": 1686131646683.8342,
       "removeTime": 1695107285037
+    },
+    "a77b934c-03f1-46a3-9131-00bba712a138": {
+      "path": "D:\\work\\cocoscreator_framework\\assets\\material",
+      "time": 1695034396240.322,
+      "removeTime": 1695385556107
+    },
+    "91b22706-89d1-4b94-976c-ea2c7647248b": {
+      "path": "D:\\work\\cocoscreator_framework\\assets\\material\\hdcSky.mtl",
+      "time": 1695034395913.198,
+      "removeTime": 1695385556107
+    },
+    "2b76fceb-d1c0-4e13-9d80-cab71c98b34e": {
+      "path": "D:\\work\\cocoscreator_framework\\assets\\material\\seafloor.mtl",
+      "time": 1695034396116.6526,
+      "removeTime": 1695385556107
+    },
+    "8aecce42-3e5e-4d2f-afe6-3ef6dc59fa91": {
+      "path": "D:\\work\\cocoscreator_framework\\assets\\material\\shield.mtl",
+      "time": 1695034396239.3245,
+      "removeTime": 1695385556107
+    },
+    "0ac0bbcb-1fdb-44d6-9a19-6e03ed1f6e02": {
+      "path": "D:\\work\\cocoscreator_framework\\assets\\material\\soldier.mtl",
+      "time": 1695034396237.3298,
+      "removeTime": 1695385556107
+    },
+    "f16ddbfe-63a2-4c1a-bc1f-d693d2f62e59": {
+      "path": "D:\\work\\cocoscreator_framework\\assets\\material\\stone.mtl",
+      "time": 1695034396118.6482,
+      "removeTime": 1695385556107
+    },
+    "e52021f1-4d04-47a0-9244-761dbd035518": {
+      "path": "D:\\work\\cocoscreator_framework\\assets\\material\\tree.mtl",
+      "time": 1695034396120.6423,
+      "removeTime": 1695385556107
+    },
+    "daae70cb-2fcc-4273-b3db-95b8bfde7a85": {
+      "path": "D:\\work\\cocoscreator_framework\\assets\\model",
+      "time": 1695034396965.912,
+      "removeTime": 1695385563620
+    },
+    "2d06eac3-614a-4e32-9e84-b1d733360cb9": {
+      "path": "D:\\work\\cocoscreator_framework\\assets\\model\\helloWorld",
+      "time": 1695034396965.912,
+      "removeTime": 1695385563620
+    },
+    "2ddda6bf-b77e-42b4-9d5e-9f1b281080be": {
+      "path": "D:\\work\\cocoscreator_framework\\assets\\model\\helloWorld\\grass",
+      "time": 1695034396966.9097,
+      "removeTime": 1695385563620
+    },
+    "046c2d79-f888-4d9e-b4ed-b929f5266f23": {
+      "path": "D:\\work\\cocoscreator_framework\\assets\\model\\helloWorld\\grass\\grass.mtl",
+      "time": 1695034396962.921,
+      "removeTime": 1695385563620
     }
   }
 }
